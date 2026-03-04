@@ -44,3 +44,5 @@ Steps:
 7.  Stack over time windows and event
 
 <span style='font-weight:bold;background:#FFFF99'>Try compare CN site amp measurements with HVSR</span>
+
+[[Coda Normalization Method]]

@@ -42,3 +42,4 @@ Add phenomenological attenuation --\> multiplication with an exponential damping
 ![image13](6b1e71e71c7045738fc8e18ad592b473.png)
 Qc is coda-attenuation factor
 
+[[Coda Excitation Model]]

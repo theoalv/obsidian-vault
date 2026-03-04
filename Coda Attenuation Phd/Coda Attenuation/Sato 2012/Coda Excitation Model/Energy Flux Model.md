@@ -43,3 +43,5 @@ Introduce intrinsic absorption
 
 Frankel & Wennerberg (1987)
 --\> observed coda decay Qc is not simply Qsc + Qi, it is more sensitive to Qi
+
+[[Coda Excitation Model]]

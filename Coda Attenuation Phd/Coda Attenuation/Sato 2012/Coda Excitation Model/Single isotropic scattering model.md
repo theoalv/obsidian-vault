@@ -93,3 +93,5 @@ Phenomenological attenuation factor is introduced to single scattering equation
 
 At late lapse time V0t \>\> r
 ![image45](b26fd998ccfd4e58b9121b18b56c398f.png)
+
+[[Coda Excitation Model]]

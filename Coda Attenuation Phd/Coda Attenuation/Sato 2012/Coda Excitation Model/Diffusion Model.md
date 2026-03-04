@@ -37,3 +37,5 @@ Energy density spreads in front of the wavefront --\> violating causality
 
 Introducing Intrinsic attenuation
 ![image11](4f4def24a63a4ae2864e5860a9194416.png)
+
+[[Coda Excitation Model]]

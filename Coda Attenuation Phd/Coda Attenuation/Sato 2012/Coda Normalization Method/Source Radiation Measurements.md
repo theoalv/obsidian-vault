@@ -46,3 +46,4 @@ Practical Steps
 8.  Source radiation ratios
 9.  Stack over multiple coda windows
 
+[[Coda Normalization Method]]

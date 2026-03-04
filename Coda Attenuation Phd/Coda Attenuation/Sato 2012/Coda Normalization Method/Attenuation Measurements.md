@@ -59,3 +59,5 @@ S wave attenuation estimates are usually more reliable
 ![image9](3f8fbca83f404c2390fc2f8b8ee83b49.png)
 - P waves lose energy for efficiency
 - More sensitive to bulk modulus, volumetric strain
+
+[[Coda Normalization Method]]
