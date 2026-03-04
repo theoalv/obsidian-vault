@@ -1,0 +1,15 @@
+/* White note background while keeping dark UI */
+
+.markdown-source-view,
+.markdown-preview-view {
+    background-color: white !important;
+    color: black !important;
+}
+
+.cm-editor {
+    background-color: white !important;
+}
+
+.cm-content {
+    color: black !important;
+}
