@@ -11,10 +11,14 @@
             "id": "fe4dff9926859cfa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Radiative Transfer Equation/RTE in Integral Form.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RTE in Integral Form"
             }
           }
         ]
@@ -183,9 +187,17 @@
   },
   "active": "fe4dff9926859cfa",
   "lastOpenFiles": [
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation/Elastic Vector Waves.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation/Green Theorem.md",
+    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Radiative Transfer Equation/Multi-Scale Analysis.md",
+    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Radiative Transfer Equation/Boltzmann Equation.md",
+    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation/Elastic Vector Waves/Random elastic inhomogeneity.md",
+    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation/Elastic Vector Waves/Localized elastic inhomogeneity.md",
+    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation/Elastic Vector Waves/Birch Law.md",
+    "Coda Attenuation Phd/Concept/Green Theorem.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation/Scalar waves.md",
+    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation/Elastic Vector Waves.md",
+    "Coda Attenuation Phd/Derivation",
+    "Coda Attenuation Phd/Concept",
+    "Coda Attenuation Phd/Paper",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation/Scalar waves/Localized Velocity Inhomogeneity.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation/Scalar waves/Scattering by Random Velocity Inhomogeneities.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Normalization Method/Source Radiation Measurements.md",
@@ -204,11 +216,6 @@
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Analysis/Total Scattering Coefficient.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Analysis/Measurement of Coda Attenuation.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Analysis/Lapse time dependence of Coda Attenuation.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Idea.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Medium Heterogeneity.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Radiative Transfer Equation.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Wave Propagation in Random Media.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Spatial Variation of Medium Heterogeneities.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Excitation Model/Scratch Res.md"
+    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Idea.md"
   ]
 }
