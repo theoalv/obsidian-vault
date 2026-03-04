@@ -3,5 +3,6 @@
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "white-note"
-  ]
+  ],
+  "baseFontSizeAction": false
 }

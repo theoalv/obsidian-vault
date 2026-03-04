@@ -11,7 +11,7 @@ Single backscattering model for a common source and receiver location (Aki and C
 Incident energy-flux density
 ![image1](296d97a30524408c8c33e7ccbe172fb3.png)
 W --\> total radiated energy
-![image2](67450e9f61594bcd9a6f7df3b9dec387.png)
+![image2|335](67450e9f61594bcd9a6f7df3b9dec387.png)
 ![image3](62e0a2ef33b3484084d06a4944e5542c.png)
 ![image4](0684791775a24b26a4fdbd5c0d079e20.png)
 
