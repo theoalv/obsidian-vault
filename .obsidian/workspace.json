@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Excitation Model/Single scattering models.md",
+                "file": "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Excitation Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Single scattering models"
+              "title": "Coda Excitation Model"
             }
           }
         ]
@@ -186,8 +186,14 @@
   },
   "active": "312cb80aaa91b4b2",
   "lastOpenFiles": [
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Excitation Model/Single isotropic scattering model.md",
+    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Normalization Method.md",
+    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Excitation Model.md",
+    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Attenuation Questions.md",
+    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Analysis.md",
+    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Excitation Model/Single scattering models.md",
+    "Coda Attenuation Phd/Coda Attenuation/Paasschens 1997",
+    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Excitation Model/Single isotropic scattering model.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Excitation Model/Diffusion Model.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Analysis/Total Scattering Coefficient.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Analysis/Measurement of Coda Attenuation.md",
@@ -197,7 +203,6 @@
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Radiative Transfer Equation.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Wave Propagation in Random Media.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Spatial Variation of Medium Heterogeneities.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Excitation Model.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Excitation Model/Scratch Res.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation/Elastic Vector Waves/Birch Law.md"
   ]
