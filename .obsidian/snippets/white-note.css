@@ -13,3 +13,27 @@
 .cm-content {
     color: black !important;
 }
+
+/* Fix properties (frontmatter) text color */
+
+.metadata-container {
+    color: black !important;
+}
+
+.metadata-property {
+    color: black !important;
+}
+
+.metadata-property-key {
+    color: black !important;
+}
+
+.metadata-property-value {
+    color: black !important;
+}
+
+.metadata-container {
+    background-color: #626262 !important;
+    padding: 8px;
+    border-radius: 6px;
+}

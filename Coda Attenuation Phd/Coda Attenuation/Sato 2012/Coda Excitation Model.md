@@ -43,7 +43,7 @@ Source = Receiver (backscattering model)
 ![image13](5a8efc6a0f5048a181e0ad2b38a11d19.png)
 
 General source-receiver geometry (isotropic scattering)
-![image14](f70021c4b0984344a4072c804529ccdf.png)
+![image14|447](f70021c4b0984344a4072c804529ccdf.png)
 
 Two dimensional (2D) Case --\> surface wave scattering
 ![image15](a2f2d8d22f1a4f639d7d308255e1dba9.png)
