@@ -38,18 +38,7 @@
     border-radius: 6px;
 }
 
-/* Force thick caret in editor */
 
-.cm-editor .cm-cursor {
-  border-left: 4px solid black !important;
-}
-
-.cm-editor .cm-cursorLayer .cm-cursor {
-  border-left-width: 4px !important;
-  border-left-color: black !important;
-}
-
-/* Some themes use caret-color instead of border */
-.cm-editor {
-  caret-color: black !important;
+.theme-dark {
+    --caret-color: salmon;
 }
