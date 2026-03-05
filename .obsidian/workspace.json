@@ -11,10 +11,14 @@
             "id": "282a3bb2dc189c91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Coda Attenuation Phd/Paper/paasschens1997.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "paasschens1997"
             }
           }
         ]
@@ -182,8 +186,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5050599de951a250",
+  "active": "282a3bb2dc189c91",
   "lastOpenFiles": [
+    "Coda Attenuation Phd/Paper/paasschens1997.md",
+    "Coda Attenuation Phd/Paper/@paasschens1997.md",
     "Coda Attenuation Phd/Paper/@.md",
     "Templates/paper-notes.md",
     "References/Library.bib",
@@ -216,8 +222,6 @@
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Excitation Model/Energy Flux Model.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Excitation Model/Single isotropic scattering model.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Excitation Model/Single scattering models.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Excitation Model.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Attenuation Questions.md",
     "Coda Attenuation Phd/Coda Attenuation/Paasschens 1997"
   ]
 }

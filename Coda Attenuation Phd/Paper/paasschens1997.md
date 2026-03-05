@@ -1,0 +1,14 @@
+---
+title: Solution of the time-dependent Boltzmann equation
+authors: J. C. J. Paasschens
+year: 1997
+journal: Physical Review E
+doi: 10.1103/PhysRevE.56.1135
+---
+
+# Solution of the time-dependent Boltzmann equation
+
+[Open in Zotero](zotero://select/items/@paasschens1997)
+
+<% tp.file.include("Templates/paper-notes.md") %>
+
