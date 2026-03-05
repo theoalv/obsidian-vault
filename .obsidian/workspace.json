@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1779f9523c3be0e9",
+        "id": "bfd5d90114a2aec2",
         "type": "tabs",
         "children": [
           {
-            "id": "fe4dff9926859cfa",
+            "id": "282a3bb2dc189c91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/paper_template.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "paper_template"
+              "title": "New tab"
             }
           }
         ]
@@ -186,13 +182,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5050599de951a250",
+  "active": "282a3bb2dc189c91",
   "lastOpenFiles": [
+    "Template/paper_template.md",
+    "Template/Paper-notes.md",
     "References/Library.json",
     "References/My Library.json",
     "References",
     "EquationLatex.md",
-    "Template/paper_template.md",
     "Template",
     "Untitled.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Radiative Transfer Equation/RTE in Integral Form.md",
