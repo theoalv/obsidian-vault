@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "csl-json",
+  "literatureNoteTitleTemplate": "@{{{citekey}} - {{title}}",
+  "literatureNoteFolder": "Coda Attenuation Phd/Paper",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "References/library.json"
+}

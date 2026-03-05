@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "feeaccd7f0d40777",
@@ -186,8 +186,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe4dff9926859cfa",
+  "active": "5050599de951a250",
   "lastOpenFiles": [
+    "References/Library.json",
+    "References/My Library.json",
+    "References",
     "EquationLatex.md",
     "Template/paper_template.md",
     "Template",
@@ -217,7 +220,6 @@
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Excitation Model.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Attenuation Questions.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Analysis.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation.md",
     "Coda Attenuation Phd/Coda Attenuation/Paasschens 1997"
   ]
 }
