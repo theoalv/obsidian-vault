@@ -11,14 +11,10 @@
             "id": "282a3bb2dc189c91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coda Attenuation Phd/Paper/@.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "@"
+              "title": "New tab"
             }
           }
         ]
@@ -186,7 +182,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "282a3bb2dc189c91",
+  "active": "5050599de951a250",
   "lastOpenFiles": [
     "Templates/paper-notes.md",
     "Coda Attenuation Phd/Paper/@.md",
