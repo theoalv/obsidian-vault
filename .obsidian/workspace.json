@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EquationLatex.md",
+                "file": "Template/paper_template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EquationLatex"
+              "title": "paper_template"
             }
           }
         ]
@@ -182,13 +182,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "fe4dff9926859cfa",
   "lastOpenFiles": [
-    "Untitled.md",
     "EquationLatex.md",
+    "Template/paper_template.md",
+    "Template",
+    "Untitled.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Radiative Transfer Equation/RTE in Integral Form.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Radiative Transfer Equation/Multi-Scale Analysis.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Radiative Transfer Equation/Boltzmann Equation.md",
@@ -215,7 +218,6 @@
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Attenuation Questions.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Analysis.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation.md",
-    "Coda Attenuation Phd/Coda Attenuation/Paasschens 1997",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Analysis/Total Scattering Coefficient.md"
+    "Coda Attenuation Phd/Coda Attenuation/Paasschens 1997"
   ]
 }
