@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,11 +200,16 @@
   },
   "active": "8a08de1ff9ef19f5",
   "lastOpenFiles": [
-    "Pasted image 20260305135739.png",
-    "Pasted image 20260305135734.png",
-    "EquationLatex.md",
-    "Coda Attenuation Phd/Concept/RTE 1D Boltzmann Solution.md",
     "Coda Attenuation Phd/Concept/Green Theorem.md",
+    "Coda Attenuation Phd/Concept/RTE 1D Boltzmann Solution.md",
+    "EquationLatex.md",
+    "Pasted image 20260305135734.png",
+    "Pasted image 20260305135739.png",
+    "Excalidraw/Drawing 2026-03-05 14.02.49.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-05 14.02.48.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-05 14.02.33.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-05 14.02.31.excalidraw.md",
+    "Excalidraw",
     "Coda Attenuation Phd/Paper/paasschens1997.md",
     "Template/paper-notes.md",
     "Template/paper_template.md",
@@ -230,10 +236,6 @@
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation/Scalar waves/Scattering by Random Velocity Inhomogeneities.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Normalization Method/Source Radiation Measurements.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Normalization Method/Site Amplification Measurements.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Normalization Method/Attenuation Measurements.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Normalization Method.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Excitation Model/Diffusion Model.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Excitation Model/Energy Flux Model.md",
     "Coda Attenuation Phd/Coda Attenuation/Paasschens 1997"
   ]
 }
