@@ -42,3 +42,21 @@
 .theme-dark {
     --caret-color: salmon;
 }
+
+/* Internal links */
+.cm-hmd-internal-link,
+.internal-link {
+    color: #003399 !important;
+}
+
+/* External links */
+.cm-url,
+.external-link {
+    color: #blue !important;
+}
+
+/* Hover effect */
+.internal-link:hover,
+.external-link:hover {
+    color: #001f66 !important;
+}

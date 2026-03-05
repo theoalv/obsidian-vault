@@ -8,7 +8,26 @@ doi: 10.1103/PhysRevE.56.1135
 
 # Solution of the time-dependent Boltzmann equation
 
-[Open in Zotero](zotero://select/items/@paasschens1997)
+## Summary
+-
 
-<% tp.file.include("Templates/paper-notes.md") %>
+## Key Contributions
+-
 
+## Important Equations
+-
+
+## Methods
+-
+
+## Figures / Results
+-
+
+## Key Concepts
+
+
+## Questions / Ideas
+-
+
+## Connections
+-
