@@ -37,3 +37,15 @@
     padding: 8px;
     border-radius: 6px;
 }
+
+/* Bold blinking typing cursor */
+
+.cm-editor .cm-cursor,
+.cm-editor .cm-dropCursor {
+    border-left: 10px solid black !important;
+}
+
+/* Ensure blinking caret is also bold */
+.cm-editor .cm-cursorLayer .cm-cursor {
+    border-left: 10px solid black !important;
+}

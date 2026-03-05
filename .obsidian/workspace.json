@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Radiative Transfer Equation/RTE in Integral Form.md",
+                "file": "EquationLatex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RTE in Integral Form"
+              "title": "EquationLatex"
             }
           }
         ]
@@ -187,6 +187,8 @@
   },
   "active": "fe4dff9926859cfa",
   "lastOpenFiles": [
+    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Radiative Transfer Equation/RTE in Integral Form.md",
+    "EquationLatex.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Radiative Transfer Equation/Multi-Scale Analysis.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Radiative Transfer Equation/Boltzmann Equation.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation/Elastic Vector Waves/Random elastic inhomogeneity.md",
@@ -214,8 +216,6 @@
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation.md",
     "Coda Attenuation Phd/Coda Attenuation/Paasschens 1997",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Analysis/Total Scattering Coefficient.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Analysis/Measurement of Coda Attenuation.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Analysis/Lapse time dependence of Coda Attenuation.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Idea.md"
+    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Analysis/Measurement of Coda Attenuation.md"
   ]
 }
