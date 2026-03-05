@@ -1,9 +1,9 @@
 {
-  "citationExportFormat": "biblatex",
+  "citationExportFormat": "csl-json",
   "literatureNoteTitleTemplate": "@{{citekey}}",
   "literatureNoteFolder": "Coda Attenuation Phd/Paper",
   "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\njournal: {{containerTitle}}\ndoi: {{DOI}}\n---\n\n# {{title}}\n\n[Open in Zotero]({{zoteroSelectURI}})\n\n<% tp.file.include(\"Templates/paper-notes.md\") %>\n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "References/Library.bib"
+  "citationExportPath": "References/Library.json"
 }
