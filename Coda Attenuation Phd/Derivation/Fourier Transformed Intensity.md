@@ -67,7 +67,9 @@ $$
 \left(\frac{\partial}{c\partial t}+\mathbf{\hat{s}}\cdot\nabla+l^{-1}\right)P_0(\mathbf{r},t,\mathbf{\hat{s}})=c^{-1}S(\mathbf{r},t)
 \tag{9b}
 $$
-Ballistic particle $P_0$ **never scatter** 
+Ballistic particle $P_0$ **never scatter**, but still contain loss term $l^{-1}$ 
+particle that scatter --> leave $P_0$ population
+with probability $p(r)=\frac{1}{l}e^{-r/l}$ 
 
 integrating transport operator (LHS)
 $$
@@ -96,6 +98,7 @@ p_0(\mathbf{r})=\frac{e^{-r/l}}{\Omega_dlr^{d-1}}
 \tag{12}
 $$
 means probability density that next scattering occurs at distance **r**
+ballistic signal decrease with distance because of longer path --> higher probability scattering
 
 **Ballistic solution**
 using source in eq 4, explicit expression for ballistic N=0 is
@@ -113,3 +116,21 @@ P_0(\mathbf{r},t)=\frac{e^{-ct/l}}{\Omega_dr^{d-1}}\delta(r-ct)
 $$
 this formulate ballistic spike
 particle travel $r=ct$ with attenuation $e^{-ct/l}$ 
+
+**Multiple scattering solution**
+based on recursion relation eq 11
+$$
+P_N(\mathbf{r},t)=l\left[\prod_{i=0}^N\int d\mathbf{r}_ip_0(\mathbf{r}_i)\right]\delta\left(ct-\sum_{i-0}^Nr_i\right)\delta\left(\mathbf{r}-\sum_{i-0}^Nr_i\right)
+\tag{14a}
+$$
+$$
+P_N(\mathbf{r},t,\mathbf{\hat{s}})=\Omega_dl\left[\prod_{i=0}^N\int d\mathbf{r}_ip_0(\mathbf{r}_i)\right]\delta\left(ct-\sum_{i-0}^Nr_i\right)\times\delta\left(\mathbf{r}-\sum_{i-0}^Nr_i\right)\delta\left(\mathbf{\hat{r}}_0-\mathbf{\hat{s}}\right)
+\tag{14b}
+$$
+where $\mathbf{\hat{r}}_0=\mathbf{r}_0/|\mathbf{r}_0|$ 
+each scattering path have $r_0,r_1,...,r_N$ 
+
+this solution uses integration product over all possible step length $\prod_{i=0}^N\int dr_i$ 
+however, most combination of $r_i$ correspond to **incorrect travel time and distance**
+thus, it is followed by 2 constrains: time constrains and spatial displacement
+$\sum_{i-0}^Nr_i$ 
