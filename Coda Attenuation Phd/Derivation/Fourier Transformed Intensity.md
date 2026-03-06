@@ -136,3 +136,10 @@ each path has different length, to arrive at the receiver, total displacement mu
 thus, it is multiplied by 2 constrains: time constrains and spatial displacement
 $\sum_{i-0}^Nr_i=r=t$ 
 the solution --> sum over all possible path
+
+summation over all N in eq 10
+$$
+P(\mathbf{r},t,\mathbf{\hat{s}})=P_0(\mathbf{r},t,\mathbf{\hat{s}})+l^{-1}\int_0^{\infty}dr_0e^{=r_0/l}P\left(\mathbf{r}-r_0\mathbf{\hat{s}},t-r_0/c\right)
+\tag{15}
+$$
+leads to spherical analog of Schwarzschild-Milne equation
