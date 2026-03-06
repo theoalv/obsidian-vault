@@ -99,3 +99,17 @@ means probability density that next scattering occurs at distance **r**
 
 **Ballistic solution**
 using source in eq 4, explicit expression for ballistic N=0 is
+$$
+\begin{aligned}
+P_0(\mathbf{r},t,\mathbf{\hat{s}})&=e^{-ct/l}\delta(\mathbf{r}-ct\mathbf{\hat{s}})\Theta(t)\\
+&=e^{-ct/l}\frac{\delta(r-ct)\delta(\mu-1^-)}{\Omega_dr^{d-1}\rho_d(\mu)}
+\end{aligned}
+\tag{13a}
+$$
+$1^-$ in $\delta$ function means it is a single-sided $\delta$ function
+$$
+P_0(\mathbf{r},t)=\frac{e^{-ct/l}}{\Omega_dr^{d-1}}\delta(r-ct)
+\tag{13b}
+$$
+this formulate ballistic spike
+particle travel $r=ct$ with attenuation $e^{-ct/l}$ 
