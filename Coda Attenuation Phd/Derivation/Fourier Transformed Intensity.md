@@ -133,4 +133,4 @@ each scattering path have $r_0,r_1,...,r_N$
 this solution uses integration product over all possible step length $\prod_{i=0}^N\int dr_i$ 
 however, most combination of $r_i$ correspond to **incorrect travel time and distance**
 thus, it is followed by 2 constrains: time constrains and spatial displacement
-$\sum_{i-0}^Nr_i$ 
+$\sum_{i-0}^Nr_i=r=t$ 
