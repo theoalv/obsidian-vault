@@ -12,3 +12,4 @@ $$
 $S$ -> source term
 $l$ -> mean free path
 $l_a$ -> adsorption length
+
