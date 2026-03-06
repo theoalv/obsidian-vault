@@ -69,3 +69,33 @@ $$
 $$
 Ballistic particle $P_0$ **never scatter** 
 
+integrating transport operator (LHS)
+$$
+P_N(\mathbf{r},t,\mathbf{\hat{s}})=l^{-1}\int_0^{\infty}dr_0e^{-r_0/l}P_{N-1}\left(\mathbf{r}-r_0\mathbf{\hat{s}},t-r_0/c\right)
+\tag{10a}
+$$
+$$
+P_0(\mathbf{r},t,\mathbf{\hat{s}})=c^{-1}\int_0^{\infty}dr_0e^{-r_0/l}S\left(\mathbf{r}-r_0\mathbf{\hat{s}},t-r_0/c\right)
+\tag{10b}
+$$
+particle has travel distance $r_0$, no scattering during travel $e^{-r_0/l}$ . then scatter
+
+and angular average of intensity
+$$
+P_N(\mathbf{r},t)=\int d\mathbf{r_0}p_0(\mathbf{r_0})P_{N-1}\left(\mathbf{r}-\mathbf{r_0},t-r_0/c\right)
+\tag{10a}
+$$
+
+$$
+P_0(\mathbf{r},t)=lc^{-1}\int d\mathbf{r_0}p_0(\mathbf{r_0})S\left(\mathbf{r}-\mathbf{r_0},t-r_0/c\right)
+\tag{10b}
+$$
+where
+$$
+p_0(\mathbf{r})=\frac{e^{-r/l}}{\Omega_dlr^{d-1}}
+\tag{12}
+$$
+means probability density that next scattering occurs at distance **r**
+
+**Ballistic solution**
+using source in eq 4, explicit expression for ballistic N=0 is
