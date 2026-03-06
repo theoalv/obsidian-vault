@@ -149,5 +149,7 @@ P(\mathbf{r},t)=P_0(\mathbf{r},t)+\int d\mathbf{r_0}p_0(\mathbf{r_0})S\left(\mat
 $$
 do Fourier transform
 $$
-P(\mathbf{k},\omega)=\int d\mathbf{r}\int_0^{\infty}dt\:e^{i{\ome}}
+P(\mathbf{k},\omega)=\int d\mathbf{r}\int_0^{\infty}dt\:e^{i(\omega t-\mathbf{k}\cdot\mathbf{r})}P(\mathbf{r},t)
+\tag{17}
 $$
+which depend only on $\omega$ and $k=|\mathbf{k}|$ 
