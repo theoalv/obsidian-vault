@@ -143,3 +143,11 @@ P(\mathbf{r},t,\mathbf{\hat{s}})=P_0(\mathbf{r},t,\mathbf{\hat{s}})+l^{-1}\int_0
 \tag{15}
 $$
 leads to spherical analog of Schwarzschild-Milne equation
+$$
+P(\mathbf{r},t)=P_0(\mathbf{r},t)+\int d\mathbf{r_0}p_0(\mathbf{r_0})S\left(\mathbf{r}-\mathbf{r_0},t-r_0/c\right)
+\tag{16}
+$$
+do Fourier transform
+$$
+P(\mathbf{k},\omega)=\int d\mathbf{r}\int_0^{\infty}dt\:e^{i{\ome}}
+$$
