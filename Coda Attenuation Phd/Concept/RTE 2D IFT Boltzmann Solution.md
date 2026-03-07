@@ -46,3 +46,7 @@ $$
 this equation contain 2 physical parts
 1. Ballistic component (1st term RHS) arrive exactly at $r=ct$ 
 2. Scattered component $r<ct$ 
+when $t>>r/c$  solution approaches diffusion with $D=cl/2$ 
+
+Next to obtain angular resolved intensity $P_N(\mathbf{r},t,\mathbf{\hat{s}})$, perform integral over $r_0$ in Eq 15
+integrand 
