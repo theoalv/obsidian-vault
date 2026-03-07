@@ -2,6 +2,7 @@ Ref [[paasschens1997]]
 Related to
 [[RTE 1D Boltzmann Solution]]
 [[Fourier Transformed Intensity]]
+[[RTE 4D Boltzmann Solution]]
 
 Based on Fourier Transformed intensity formulation eq 18, 
 4D FT intensity is given by
