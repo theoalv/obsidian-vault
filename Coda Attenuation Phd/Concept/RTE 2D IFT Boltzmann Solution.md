@@ -19,4 +19,4 @@ P_N(r,\omega)=\frac{1}{cl^2}\left(\frac{r}{2l(1-i\omega l/c)}\right)^{-(N+1)/2}\
 $$
 this equation also involves bessel function of the second kind $K_v(z)$ 
 Bessel function is naturally arise in radial symmetry problem
-$\mathcal{F}^{-1}[(k^2+a^2)]$ 
+$\mathcal{F}^{-1}[(k^2+a^2)^{-v}]$  always produce bessel function
