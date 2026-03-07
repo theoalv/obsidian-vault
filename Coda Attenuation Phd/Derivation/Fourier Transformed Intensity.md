@@ -1,3 +1,5 @@
+Ref [[paasschens1997]]
+
 RTE describes intensity radiation $P(r,t,\hat{s})$, dependent on place r, time t, and direction $\hat{s}$
 ![[Pasted image 20260306215726.png|443]]
 based on boltzmann equation
@@ -169,3 +171,5 @@ $$
 P_N(\mathbf{k},\omega,\mathbf{\hat{s}})=P_{N-1}(k,\omega\frac{1}{1-i\omega l/c+il\mathbf{k}\cdot\mathbf{\hat{s}})})
 \tag{18c}
 $$
+$_2F_1$ is hypergeometric function --> random walk theory
+
