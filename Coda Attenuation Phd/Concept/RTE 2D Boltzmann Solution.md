@@ -38,3 +38,12 @@ for lower scattering level case $l=5$
 little to no scattering occured in this case, most of energy is in ballistic
 it is evident that ballistic intensity is energy that not yet scattered, the probability of scattering is controlled by $l$ value
 
+2D space-time map simulation
+with same configuration, here is map for moderate scattering $l=1$
+![[Pasted image 20260307144750.png]]
+white area is zero intensity area, as $c=1$ then $t=r$
+ballistic is in $t=r$ line, as there is moderate scattering then ballistic intensity at low distance is stronger
+
+high scattering case $l=0.3$
+![[Pasted image 20260307145143.png]]
+for 
