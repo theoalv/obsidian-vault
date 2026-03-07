@@ -14,6 +14,10 @@ $$
 \int\frac{d\mathbf{k}}{(2\pi)^4}e^{i\mathbf{k}\cdot\mathbf{r}}f(\mathbf{|k|})=\frac{1}{4\pi^2r}\int_0^{\infty}dk\,k^2J_1(kr)f(k)
 \tag{28}
 $$
- when function depends only on $|k|$. the FT reduces to 1D integral involving Bessel fu
- then
+ when function depends only on $|k|$. the FT reduces to 1D integral involving Bessel function $J_1$
+ then it becomes
+ $$
+P_N(r,t)=\frac{2^{N-1}e^{-ct/l}}{\pi^3il^Nr^{N+3}}\int_0^{\infty}dkJ_1(kr)k^{-2N}\times\int_{r/l-i\infty}^{r/l+i\infty}dz\,e^{}
+$$
+ 
  
