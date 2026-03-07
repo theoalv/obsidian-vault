@@ -49,4 +49,13 @@ this equation contain 2 physical parts
 when $t>>r/c$  solution approaches diffusion with $D=cl/2$ 
 
 Next to obtain angular resolved intensity $P_N(\mathbf{r},t,\mathbf{\hat{s}})$, perform integral over $r_0$ in Eq 15
-integrand 
+integrand vanishes for $r_0>r_{max}$ . with
+$$
+r_max=\frac{{ct}^2-r^2}{2(ct-r\mu)}
+\tag{24}
+$$ for $N\ge1$ 
+$$
+\begin{aligned}
+P_N(\mathbf{r},t,\mu)=\frac{1}{2\pi l^N(N-2)!}\int_0^{r_{max}}dr_0e^{-ct/l}
+\end{aligned}
+$$
