@@ -1,5 +1,5 @@
 related to
-[[RTE 2D IFT Boltzmann Solution]]
+[[IFT Intensity 2D]]
 
 RTE is Based on diffusion equation, 1D solution has been given by Hemmer
 $$
