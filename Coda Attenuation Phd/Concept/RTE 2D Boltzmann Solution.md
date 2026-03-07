@@ -35,4 +35,6 @@ scattering tail dominates this case as $l$ is low
 
 for lower scattering level case $l=5$
 ![[Pasted image 20260307134632.png]]
-little to no scattering occured in this case, most of energy is still 
+little to no scattering occured in this case, most of energy is in ballistic
+it is evident that ballistic intensity is energy that not yet scattered, the probability of scattering is controlled by $l$ value
+
