@@ -11,4 +11,8 @@ P_N(k,\omega)=c^{-1}l\left[\frac{1}{kl}arctan\left(\frac{kl}{1-i\omega l/c}\righ
 \tag{33}
 $$
 evaluating 3D angular integral gives arctan kernel --> only possible for N=0,1
-then use interpolation from 2
+then use interpolation from 2D and 4D solution
+2D --> $(1-r^2/c^2t^2)^{(N-2)/2}$ 
+4D --> $(1-r^2/c^2t^2)^{N-1}$
+then approximation for 3D
+$P_N\propto[1-r^2]
