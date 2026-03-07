@@ -28,5 +28,10 @@ mean number of event $\langle N \rangle=ct/l$
 
 Combining interpolation exponent and normalization constraint, for $N\ge1$ 
 $$
-P_N(r,t)\simeq\frac{e^{-ct/l}}{\pi l^3}\frac{\Gamma\left}{}
+P_N(r,t)\simeq\frac{e^{-ct/l}}{\pi l^3}\frac{\Gamma\left(\frac{3}{4}N+\frac{3}{2}\right)}{\sqrt{\pi}N!\Gamma\left(\frac{3}{4}N\right)}\left(\frac{ct}{l}\right)^{N-3}\times\left(1-\frac{r^2}{c^2t^2}\right)^{\frac{3}{4}N-1}\Theta(ct-r)
+\tag{35}
+$$
+Total intensity
+$$
+P(r,t)\simeq\frac{e^{-ct/l}}{4\pi r^2}\delta(r)
 $$
