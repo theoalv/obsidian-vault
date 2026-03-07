@@ -1,3 +1,6 @@
+related to
+[[RTE 2D IFT Boltzmann Solution]]
+
 RTE is Based on diffusion equation, 1D solution has been given by Hemmer
 $$
 P(r,t)=\frac{1}{2}e^{-ct/2l}\left[\delta(r-ct)+\frac{1}{2l}\Theta(ct-r)\times \left(I_0(\sqrt{c^2t^2-r^2})+ct\frac{I_1(\sqrt{c^2t^2-r^2}/2l)}{\sqrt{c^2t^2-r^2}}\right)\right]
