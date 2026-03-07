@@ -25,4 +25,14 @@ if $l=1$ or moderate scattering level
 ![[Pasted image 20260307133922.png]]
 spike is ballistic peak, for this case small amount of scattering occured
 high spike --> strong ballistic intensity, low scattering
-in transport region $r$
+in transport region $r<ct$ --> distribution of scattered particle
+in front of wave $r>ct$ intensity is zero
+
+for higher scattering level case $l=0.3$ 
+![[Pasted image 20260307134426.png]]
+Ballistic intensity is significantly reduced, as most energy is scattered
+scattering tail dominates this case as $l$ is low
+
+for lower scattering level case $l=5$
+![[Pasted image 20260307134632.png]]
+little to no scattering occured in this case, most of energy is still 
