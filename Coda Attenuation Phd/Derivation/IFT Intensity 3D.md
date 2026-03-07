@@ -23,3 +23,10 @@ $$
 \int d\mathbf{r}P_N(\mathbf{r},t)=\frac{1}{N!}\left(\frac{ct}{l}\right)^Ne^{-ct/l}
 \tag{34}
 $$
+means number of scattering evens follows a Poisson distribution
+mean number of event $\langle N \rangle=ct/l$    
+
+Combining interpolation exponent and normalization constraint, for $N\ge1$ 
+$$
+P_N(r,t)\simeq\frac{e^{-ct/l}}{\pi l^3}\frac{\Gamma\left}{}
+$$
