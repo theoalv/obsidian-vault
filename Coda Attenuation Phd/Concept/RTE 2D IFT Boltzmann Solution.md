@@ -58,6 +58,13 @@ $$
 \begin{aligned}
 P_N(\mathbf{r},t,\mu)
 &=\frac{1}{2\pi l^N(N-2)!}\int_0^{r_{max}}dr_0e^{-ct/l}[(ct-r_0)^2-(\mathbf{r}-r_0\mathbf{\hat{s}}^2)]^{(N-3)/2}\\
-&=\frac{e^{-ct/l}}{2\pi l(N-1!)}\frac{1}{ct-r\mu}\left(\frac{ct}{l}\right)^{N-1}\times\left(1-\frac{r^2}{c^2t^2}\right)
+&=\frac{e^{-ct/l}}{2\pi l(N-1!)}\frac{1}{ct-r\mu}\left(\frac{ct}{l}\right)^{N-1}\times\left(1-\frac{r^2}{c^2t^2}\right)^{(N-1)/2}
+\Theta(ct-r)
 \end{aligned}
+\tag{25}
+$$
+summing over N, include ballistic contribution
+$$
+P(\mathbf{r},t,\mathbf{\hat{s}})=e^{-ct/l}\delta(\mathbf{r}-ct\mathbf{\hat{s}})\Theta(t)+\frac{1}{2\pi l(ct-\mathbf{r}\cdot\mathbf{\hat{s}})}\times exp[l^{-1}(\sqrt{c^2t^2-r^2}-ct)]\Theta(ct-r)
+\tag{26}
 $$
