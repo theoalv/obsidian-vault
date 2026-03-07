@@ -46,4 +46,8 @@ ballistic is in $t=r$ line, as there is moderate scattering then ballistic inten
 
 high scattering case $l=0.3$
 ![[Pasted image 20260307145143.png]]
-for 
+in this case, the ballistic intensity is gone at high distance
+scattered intensity is higher and still evident in longer time
+
+low to no scattering case $l=5$
+![[Pasted image 20260307145701.png]]
