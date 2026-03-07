@@ -40,6 +40,8 @@ where
 $$
 \begin{aligned}
 G(x)
-&=
+&=8(3x)^{-3/2}\sum_{N=1}^{\infty}\frac{\Gamma\left(\frac{3}{4}N+\frac{3}{2}\right)}{\Gamma\left(\frac{3}{4}N\right)}\frac{x^N}{N!}\\
+&\simeq e^x\sqrt{1+2.026/x}
 \end{aligned}
+\tag{36b}
 $$
