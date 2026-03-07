@@ -28,3 +28,8 @@ G(x)
 $$
 when $r,l<<ct$ the expression become diffusion solution
 diffusion coefficient $D=\frac{cl}{3}$ 
+
+simulation for different distances
+![[Pasted image 20260308065441.png]]
+after ballistic arrival there is decaying tails
+however at larger times (4) the curve approaches diffusive profile
