@@ -15,7 +15,10 @@ doi: 10.1103/PhysRevE.56.1135
 -
 
 ## Important Equations
--
+[[RTE 1D Boltzmann Solution]]
+[[Fourier Transformed Intensity]]
+[[IFT Intensity 2D]]
+[[RTE 2D Boltzmann Solution]]
 
 ## Methods
 -

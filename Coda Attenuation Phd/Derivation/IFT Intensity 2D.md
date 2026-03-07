@@ -2,6 +2,7 @@ Ref [[paasschens1997]]
 Related to
 [[RTE 1D Boltzmann Solution]]
 [[Fourier Transformed Intensity]]
+[[RTE 2D Boltzmann Solution]]
 
 The solution is based on FT intensity for dimension d Eq 18
 do IFT to obtain explicit formula for $P(r,t)$ 
