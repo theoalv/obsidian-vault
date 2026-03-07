@@ -33,5 +33,13 @@ P_N(r,t)\simeq\frac{e^{-ct/l}}{\pi l^3}\frac{\Gamma\left(\frac{3}{4}N+\frac{3}{2
 $$
 Total intensity
 $$
-P(r,t)\simeq\frac{e^{-ct/l}}{4\pi r^2}\delta(r)
+P(r,t)\simeq\frac{e^{-ct/l}}{4\pi r^2}\delta(r-ct)+\frac{(1-r^2/c^2t^2)^{1/8}}{(4\pi lct/3)^{3/2}}e^{-ct/l}\times G\left(\frac{ct}{l}\left[1-\frac{r^2}{c^2t^2}\right]^{3/4}\right)\Theta(ct-r)
+\tag{36a}
+$$
+where
+$$
+\begin{aligned}
+G(x)
+&=
+\end{aligned}
 $$
