@@ -33,4 +33,12 @@ P_N(r,t)=\frac{e^{-ct/l}}{2\pi l^2}\frac{1}{(N-1)!}\left(1-\frac{r^2}{c^2t^2}\ri
 \tag{22}
 $$
 this equation incorporate 
-exponential attenuation 
+1. exponential attenuation $e^{-ct/l}$ 
+2. Poisson-line scattering distribution $\left(\frac{ct}{l}\right)^{N-2}/(N-1)!$ 
+3. Geometric factor $\left(1-\frac{r^2}{c^2t^2}\right)^{N-2}/2$ 
+4. Step function (causality) $\Theta(ct-r)$ 
+
+By summing all scattering order N, total intensity is
+$$
+P(r,t)=
+$$
