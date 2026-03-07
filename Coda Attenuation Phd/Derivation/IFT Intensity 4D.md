@@ -20,6 +20,13 @@ $$
 P_N(r,t)=\frac{2^{N-1}e^{-ct/l}}{\pi^3il^Nr^{N+3}}\int_0^{\infty}dkJ_1(kr)k^{-2N}\times\int_{r/l-i\infty}^{r/l+i\infty}dz\,e^{zet/r}[\sqrt{k^2r^2+z^2}-z]^{N+1}
 \tag{29}
 $$
-Inverse Fourier in k and Inverse Laplace in $
- 
+Inverse Fourier in k and Inverse Laplace in $\omega$ 
+integral over $z$ yields
+$$
+i(N+1)(kr)^{N+1}J_{N+1}(kct)\Theta(t)r/ct
+$$
+ do integration over $k$ for $N\ge1$ 
+ $$
+P_N(r,t)=\frac{}{}
+$$
  
