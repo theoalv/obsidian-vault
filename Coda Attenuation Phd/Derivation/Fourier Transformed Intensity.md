@@ -147,9 +147,17 @@ $$
 P(\mathbf{r},t)=P_0(\mathbf{r},t)+\int d\mathbf{r_0}p_0(\mathbf{r_0})S\left(\mathbf{r}-\mathbf{r_0},t-r_0/c\right)
 \tag{16}
 $$
-do Fourier transform
+This equation has nested integral which solution involves convolution, to simplify the solution, FT is conducted to transform it to multiplication
+
+Then do Fourier transform
 $$
 P(\mathbf{k},\omega)=\int d\mathbf{r}\int_0^{\infty}dt\:e^{i(\omega t-\mathbf{k}\cdot\mathbf{r})}P(\mathbf{r},t)
 \tag{17}
 $$
 which depend only on $\omega$ and $k=|\mathbf{k}|$ 
+The result is
+$$
+\begin{aligned}
+P_N(\mathbf{k},\omega)&=c^{-1}l\left(\right)
+\end{aligned}
+$$
