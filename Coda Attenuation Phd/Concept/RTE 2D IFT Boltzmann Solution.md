@@ -21,3 +21,8 @@ this equation also involves bessel function of the second kind $K_v(z)$
 Bessel function is naturally arise in radial symmetry problem
 $\mathcal{F}^{-1}[(k^2+a^2)^{-v}]$  always produce bessel function
 
+use integral identity
+$$
+K_v(z)=\frac{\sqrt{\pi}(z/2)^v}{\Gamma\left(v+\frac{1}{2}\right)}\int_0^{\infty}d\xi(sinh\xi)^{2v}e^{-z}
+$$
+
