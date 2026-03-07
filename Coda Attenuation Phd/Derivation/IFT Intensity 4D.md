@@ -27,6 +27,8 @@ i(N+1)(kr)^{N+1}J_{N+1}(kct)\Theta(t)r/ct
 $$
  do integration over $k$ for $N\ge1$ 
  $$
-P_N(r,t)=\frac{}{}
+P_N(r,t)=\frac{1}{\pi^2}e^{-ct/l}\frac{1}{ctl^3}\left(\frac{ct}{l}\right)^{N-3}\times\frac{N+1}{(N-1)!}\left[1-\frac{r^2}{c^2t^2}\right]^{N-1}\Theta(ct-r)
+\tag{30}
 $$
+
  
