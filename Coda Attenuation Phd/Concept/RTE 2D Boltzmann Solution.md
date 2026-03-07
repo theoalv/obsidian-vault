@@ -18,3 +18,11 @@ $$
 P(\mathbf{r},t,\mathbf{\hat{s}})=e^{-ct/l}\delta(\mathbf{r}-ct\mathbf{\hat{s}})\Theta(t)+\frac{1}{2\pi l(ct-\mathbf{r}\cdot\mathbf{\hat{s}})}\times exp[l^{-1}(\sqrt{c^2t^2-r^2}-ct)]\Theta(ct-r)
 \tag{26}
 $$
+
+Total intensity 2D simulation
+use $c=1$ with $t=2,4,6$  
+if $l=1$ or moderate scattering level
+![[Pasted image 20260307133922.png]]
+spike is ballistic peak, for this case small amount of scattering occured
+high spike --> strong ballistic intensity, low scattering
+in transport region $r$
