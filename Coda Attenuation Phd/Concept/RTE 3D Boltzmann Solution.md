@@ -12,9 +12,10 @@ The solution only applicable for N = 0,1 and impossible for other N value.
 The proposed solution is by doing interpolation between 2D and 4D
 
 Total intensity formulation for 3D
+Total intensity
 $$
-P_N(r,t)\simeq\frac{e^{-ct/l}}{\pi l^3}\frac{\Gamma\left(\frac{3}{4}N+\frac{3}{2}\right)}{\sqrt{\pi}N!\Gamma\left(\frac{3}{4}N\right)}\left(\frac{ct}{l}\right)^{N-3}\times\left(1-\frac{r^2}{c^2t^2}\right)^{\frac{3}{4}N-1}\Theta(ct-r)
-\tag{35}
+P(r,t)\simeq\frac{e^{-ct/l}}{4\pi r^2}\delta(r-ct)+\frac{(1-r^2/c^2t^2)^{1/8}}{(4\pi lct/3)^{3/2}}e^{-ct/l}\times G\left(\frac{ct}{l}\left[1-\frac{r^2}{c^2t^2}\right]^{3/4}\right)\Theta(ct-r)
+\tag{36a}
 $$
 where
 $$
@@ -25,3 +26,5 @@ G(x)
 \end{aligned}
 \tag{36b}
 $$
+when $r,l<<ct$ the expression become diffusion solution
+diffusion coefficient $D=\frac{cl}{3}$ 
