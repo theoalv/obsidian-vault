@@ -161,6 +161,11 @@ $$
 P_N(\mathbf{k},\omega)
 &=c^{-1}l\left(\int_{-1}^1 \frac{d\mu\rho_d(\mu)}{1-i\omega l/c+ikl\mu}\right)^{N+1}
 \tag{18a}\\
-&=c^{-1}l\left[\frac{_2F_1\left}{}\right]
+&=c^{-1}l\left[\frac{_2F_1\left(\frac{1}{2},1;\frac{1}{2},d;-k^2l^2(1-i\omega l/c)^{-2}\right)}{1-i\omega l/c}\right]^{N+1}
+\tag{18b}
 \end{align}
+$$
+$$
+P_N(\mathbf{k},\omega,\mathbf{\hat{s}})=P_{N-1}(k,\omega\frac{1}{1-i\omega l/c+il\mathbf{k}\cdot\mathbf{\hat{s}})})
+\tag{18c}
 $$
