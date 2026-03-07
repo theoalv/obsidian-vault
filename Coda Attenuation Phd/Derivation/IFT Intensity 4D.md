@@ -17,7 +17,9 @@ $$
  when function depends only on $|k|$. the FT reduces to 1D integral involving Bessel function $J_1$
  then it becomes
  $$
-P_N(r,t)=\frac{2^{N-1}e^{-ct/l}}{\pi^3il^Nr^{N+3}}\int_0^{\infty}dkJ_1(kr)k^{-2N}\times\int_{r/l-i\infty}^{r/l+i\infty}dz\,e^{}
+P_N(r,t)=\frac{2^{N-1}e^{-ct/l}}{\pi^3il^Nr^{N+3}}\int_0^{\infty}dkJ_1(kr)k^{-2N}\times\int_{r/l-i\infty}^{r/l+i\infty}dz\,e^{zet/r}[\sqrt{k^2r^2+z^2}-z]^{N+1}
+\tag{29}
 $$
+Inverse Fourier in k and Inverse Laplace in $
  
  
