@@ -157,10 +157,10 @@ $$
 which depend only on $\omega$ and $k=|\mathbf{k}|$ 
 The result is
 $$
-\begin{aligned}
-P_N(\mathbf{k},\omega)&=c^{-1}l\left(\int_{-1}^1 \frac{d\mu\rho_d(\mu)}{1-i\omega l/c+ikl\mu}\right)^{N+1}\\
+\begin{align}
+P_N(\mathbf{k},\omega)
 &=c^{-1}l\left(\int_{-1}^1 \frac{d\mu\rho_d(\mu)}{1-i\omega l/c+ikl\mu}\right)^{N+1}
-\end{aligned}
-\tag{18a}
-\tag{18b}
+\tag{18a}\\
+&=c^{-1}l\left[\frac{_2F_1\left}{}\right]
+\end{align}
 $$
