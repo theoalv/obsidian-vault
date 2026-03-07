@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coda Attenuation Phd/Derivation/Fourier Transformed Intensity.md",
+                "file": "Coda Attenuation Phd/Concept/RTE 2D IFT Boltzmann Solution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fourier Transformed Intensity"
+              "title": "RTE 2D IFT Boltzmann Solution"
             }
           }
         ],
@@ -214,8 +214,9 @@
   },
   "active": "6f97fc4e8f306138",
   "lastOpenFiles": [
-    "Coda Attenuation Phd/Derivation/Drawing 2026-03-06 22.22.21.excalidraw.md",
     "Coda Attenuation Phd/Derivation/Fourier Transformed Intensity.md",
+    "Coda Attenuation Phd/Concept/RTE 2D IFT Boltzmann Solution.md",
+    "Coda Attenuation Phd/Derivation/Drawing 2026-03-06 22.22.21.excalidraw.md",
     "Coda Attenuation Phd/Derivation/Drawing 2026-03-06 22.20.21.excalidraw.md",
     "Excalidraw/Drawing 2026-03-05 14.02.31.excalidraw.md",
     "Excalidraw/Drawing 2026-03-06 22.19.22.excalidraw.md",
@@ -251,7 +252,6 @@
     "Coda Attenuation Phd/Derivation",
     "Coda Attenuation Phd/Concept",
     "Coda Attenuation Phd/Paper",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation/Scalar waves/Localized Velocity Inhomogeneity.md",
     "Coda Attenuation Phd/Coda Attenuation/Paasschens 1997"
   ]
 }

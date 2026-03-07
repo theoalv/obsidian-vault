@@ -1,4 +1,6 @@
 Ref [[paasschens1997]]
+Related to
+[[RTE 1D Boltzmann Solution]]
 
 RTE describes intensity radiation $P(r,t,\hat{s})$, dependent on place r, time t, and direction $\hat{s}$
 ![[Pasted image 20260306215726.png|443]]
