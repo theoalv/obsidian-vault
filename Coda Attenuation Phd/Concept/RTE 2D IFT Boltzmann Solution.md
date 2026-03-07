@@ -56,6 +56,8 @@ r_max=\frac{{ct}^2-r^2}{2(ct-r\mu)}
 $$ for $N\ge1$ 
 $$
 \begin{aligned}
-P_N(\mathbf{r},t,\mu)=\frac{1}{2\pi l^N(N-2)!}\int_0^{r_{max}}dr_0e^{-ct/l}
+P_N(\mathbf{r},t,\mu)
+&=\frac{1}{2\pi l^N(N-2)!}\int_0^{r_{max}}dr_0e^{-ct/l}[(ct-r_0)^2-(\mathbf{r}-r_0\mathbf{\hat{s}}^2)]^{(N-3)/2}\\
+&=\frac{e^{-ct/l}}{2\pi l(N-1!)}\frac{1}{ct-r\mu}\left(\frac{ct}{l}\right)^{N-1}\times\left(1-\frac{r^2}{c^2t^2}\right)
 \end{aligned}
 $$
