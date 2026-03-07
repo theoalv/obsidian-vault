@@ -51,3 +51,5 @@ scattered intensity is higher and still evident in longer time
 
 low to no scattering case $l=5$
 ![[Pasted image 20260307145701.png]]
+in this case, scattering intensity is low and nearly uniform
+most of intensity concentrated near wavefront $r=t$ as higher $l$ means lower probability of scattering
