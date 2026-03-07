@@ -30,5 +30,11 @@ $$
 P_N(r,t)=\frac{1}{\pi^2}e^{-ct/l}\frac{1}{ctl^3}\left(\frac{ct}{l}\right)^{N-3}\times\frac{N+1}{(N-1)!}\left[1-\frac{r^2}{c^2t^2}\right]^{N-1}\Theta(ct-r)
 \tag{30}
 $$
-
+Sum over all N and include ballistic term, total intensity is formulated as
+$$
+P(r,t)=\frac{e^{-ct/l}}{2\pi^2r^3}\delta(r-ct)+\frac{1}{(\pi lct)^2}\left(1-\frac{r^2}{c^2t^2}+\frac{2l}{ct}\right)\times exp(-r^2/lct)\Theta(ct-r)
+\tag{31}
+$$
+formed by 2 terms: ballistic and scattering term
+if $r<
  
