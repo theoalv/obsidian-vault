@@ -14,5 +14,6 @@ $$
 this equation has $(k^2+a^2)^{-v}$ structure --> solvable with bessel function
 do IFT with respect to k for $N\ge1$ , we obtain
 $$
-P_N(r,\omega)=\frac{1}{}
+P_N(r,\omega)=\frac{1}{cl^2}\left(\frac{r}{2l(1-i\omega l/c)}\right)^{-(N+1)/2}\times\frac{1}{\Gamma((N+1)/2)}K_{(N-1)/2}((1-i\omega l/c)r/l)
+\tag{20}
 $$
