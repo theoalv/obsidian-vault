@@ -36,5 +36,10 @@ P(r,t)=\frac{e^{-ct/l}}{2\pi^2r^3}\delta(r-ct)+\frac{1}{(\pi lct)^2}\left(1-\fra
 \tag{31}
 $$
 formed by 2 terms: ballistic and scattering term
-if $r<
+if $r<<ct$ and $l<<ct$ then diffusion constant is $D=\frac{1}{4}cl$ 
+
+Angular resolved intensit $P(r,t,\mu)$ for $N\ge1$ solved from Eq 15 and 30
+$$
+P(r,t,\mu)=\frac{\pi e^{-ct/l}}{2r^3}\delta(r-ct)\delta(\mu-1^-)(1-\mu^2)^{-1/2}+\frac{exp(-r^2/lct)}{(\)}
+$$
  
