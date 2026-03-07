@@ -15,4 +15,11 @@ then use interpolation from 2D and 4D solution
 2D --> $(1-r^2/c^2t^2)^{(N-2)/2}$ 
 4D --> $(1-r^2/c^2t^2)^{N-1}$
 then approximation for 3D
-$P_N\propto[1-r^2]
+$P_N\propto[1-r^2/(ct)^2]^{3N/4-1}$ 
+
+The intensity must satisfy Poisson statistics of scattering events Eq 14
+with normalization
+$$
+\int d\mathbf{r}P_N(\mathbf{r},t)=\frac{1}{N!}\left(\frac{ct}{l}\right)^Ne^{-ct/l}
+\tag{34}
+$$
