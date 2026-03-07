@@ -17,3 +17,6 @@ $$
 P_N(r,\omega)=\frac{1}{cl^2}\left(\frac{r}{2l(1-i\omega l/c)}\right)^{-(N+1)/2}\times\frac{1}{\Gamma((N+1)/2)}K_{(N-1)/2}((1-i\omega l/c)r/l)
 \tag{20}
 $$
+this equation also involves bessel function of the second kind $K_v(z)$ 
+Bessel function is naturally arise in radial symmetry problem
+$\mathcal{F}^{-1}[(k^2+a^2)]$ 
