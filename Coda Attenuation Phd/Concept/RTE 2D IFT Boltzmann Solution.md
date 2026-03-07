@@ -29,5 +29,8 @@ $$
 
 and $cosh\xi=ct/r$ , IFT of Eq 20 is
 $$
-P_N(r,t)=\frac{e^{-ct/l}}{2\pi l^2}\frac{1}{(N-1)!}\left(1-\frac{r^2}{c^2t^2}\right)^{(N-2)/2}
+P_N(r,t)=\frac{e^{-ct/l}}{2\pi l^2}\frac{1}{(N-1)!}\left(1-\frac{r^2}{c^2t^2}\right)^{(N-2)/2}\times\Theta(ct-r),\quad N\ge1
+\tag{22}
 $$
+this equation incorporate 
+exponential attenuation 
