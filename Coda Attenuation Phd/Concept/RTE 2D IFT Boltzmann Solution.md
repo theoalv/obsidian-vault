@@ -23,6 +23,11 @@ $\mathcal{F}^{-1}[(k^2+a^2)^{-v}]$  always produce bessel function
 
 use integral identity
 $$
-K_v(z)=\frac{\sqrt{\pi}(z/2)^v}{\Gamma\left(v+\frac{1}{2}\right)}\int_0^{\infty}d\xi(sinh\xi)^{2v}e^{-z}
+K_v(z)=\frac{\sqrt{\pi}(z/2)^v}{\Gamma\left(v+\frac{1}{2}\right)}\int_0^{\infty}d\xi(sinh\xi)^{2v}e^{-zcosh\xi}
+\tag{21}
 $$
 
+and $cosh\xi=ct/r$ , IFT of Eq 20 is
+$$
+P_N(r,t)=\frac{e^{-ct/l}}{2\pi l^2}\frac{1}{(N-1)!}\left(1-\frac{r^2}{c^2t^2}\right)^{(N-2)/2}
+$$
