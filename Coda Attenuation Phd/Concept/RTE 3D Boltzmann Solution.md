@@ -4,6 +4,7 @@ related to
 [[Fourier Transformed Intensity]]
 [[RTE 2D Boltzmann Solution]]
 [[RTE 4D Boltzmann Solution]]
+[[Coda Excitation Model]]
 derived from
 [[IFT Intensity 3D]]
 

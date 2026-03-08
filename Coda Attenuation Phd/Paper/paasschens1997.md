@@ -19,7 +19,10 @@ doi: 10.1103/PhysRevE.56.1135
 [[Fourier Transformed Intensity]]
 [[IFT Intensity 2D]]
 [[RTE 2D Boltzmann Solution]]
-
+[[IFT Intensity 3D]]
+[[RTE 3D Boltzmann Solution]]
+[[IFT Intensity 4D]]
+[[RTE 4D Boltzmann Solution]]
 ## Methods
 -
 
