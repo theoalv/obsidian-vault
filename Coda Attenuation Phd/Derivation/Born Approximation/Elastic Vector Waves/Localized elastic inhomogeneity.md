@@ -3,6 +3,7 @@ title: Localized elastic inhomogeneity
 updated: 2026-02-07T08:27:57
 created: 2026-02-05T10:41:05
 ---
+[[Birch Law]]
 
 Apply same procedure from scalar wave to vector wave
 ![image1](0b75d77168054f5182873d5182338d7a.png)
