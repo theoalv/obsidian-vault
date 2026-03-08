@@ -32,4 +32,4 @@ diffusion coefficient $D=\frac{cl}{3}$
 simulation for different distances
 ![[Pasted image 20260308065441.png]]
 after ballistic arrival there is decaying tails
-however at larger times (4) the curve approaches diffusive profile
+however at larger times the curve approaches diffusive profile
