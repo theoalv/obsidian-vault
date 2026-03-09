@@ -26,7 +26,7 @@ E_{mod}(t,\mathbf{x})
 $$
 $W$ is spectral source energy in J/Hz
 $R_i$ is site response at station i
-$G$ is Green function
+$G$ is Green function --> calculate with $g_0$ 
 $b$ is intrinsic adsorption
 ## Methods
 -

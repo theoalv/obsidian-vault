@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coda Attenuation Phd/Paper/sens-schonfelder2006.md",
+                "file": "Coda Attenuation Phd/Concept/Coda Envelope Modelling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sens-schonfelder2006"
+              "title": "Coda Envelope Modelling"
             }
           }
         ]
@@ -199,9 +199,10 @@
   },
   "active": "6f97fc4e8f306138",
   "lastOpenFiles": [
+    "Coda Attenuation Phd/Paper/sens-schonfelder2006.md",
+    "Coda Attenuation Phd/Concept/Coda Envelope Modelling.md",
     "Coda Attenuation Phd/Paper/paasschens1997.md",
     "Coda Attenuation Phd/Paper/eulenfeld2016.md",
-    "Coda Attenuation Phd/Paper/sens-schonfelder2006.md",
     "Coda Attenuation Phd/Concept/RTE in Integral Form.md",
     "Coda Attenuation Phd/Concept/RTE 4D Boltzmann Solution.md",
     "Coda Attenuation Phd/Concept/RTE 3D Boltzmann Solution.md",
@@ -224,7 +225,6 @@
     "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Localized elastic inhomogeneity.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation/Elastic Vector Waves.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation/Scalar waves.md",
-    "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Radiative Transfer Equation.md",
     "Coda Attenuation Phd/Scratch",
     "Pasted image 20260308065441.png",
     "Pasted image 20260308054616.png",
