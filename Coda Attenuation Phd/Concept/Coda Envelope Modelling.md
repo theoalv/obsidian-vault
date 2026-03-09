@@ -74,5 +74,8 @@ Steps :
    fit linear curve to LHS eq 8
    only fit after direct S wave
    apply constraint that Avg values of mod and obs are equal
+   resolve trade off between $g_0$ and $(WR_i)$ in late coda
+3. Calculate $E_{mod}$ --> with obtained $b$ and $WR_i$ 
+4. Re
 
 ![[Pasted image 20260310054146.png]]
