@@ -47,4 +47,8 @@ E_{obs}(t,r)=\frac{\rho_0}{2}\frac{\dot{u}(t,r)+\mathcal{H}^2(\dot{u}(t,r))}{2}
 $$
 $\rho_0$ can be assumed (2700)
 
-Inversion scheme --> estimate 
+Inversion scheme --> estimate $g_0, b, W,$ and $R_i$ 
+minimize misfit function
+$$
+\
+$$
