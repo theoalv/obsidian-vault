@@ -64,6 +64,13 @@ Main strategy :
 1D gridsearch for $g_0$ 
 Linear inversion for remaining parameter
 Steps :
-1. Pick a range of $g_0$ calculate $G(t,r_i)$ for all stations $i$
+1. Pick a range of $g_0$ calculate $G(t,r_i)$ for all stations $i$ (Eq 3)
+2. Calculate $E_{obs}$ (Eq 6) and $E_{mode}$ (Eq 5), 
+   rearrange terms 
+   $$
+   ln\left(\frac{E_{obs}(t_j,r_i)}{G(t_j,r_i)}\right)=2ln(2WR_i)-bt_j
+   \tag{8}
+   $$
+   fit linear curve to LHS eq 8
 
 ![[Pasted image 20260310054146.png]]
