@@ -40,4 +40,11 @@ E_{mod}(t,\mathbf{x})
 \end{align}
 $$
 
-Observed energy density is formulated from bandpassed velocity seismogram 
+Observed energy density is formulated from bandpassed velocity seismogram $\dot{u}(t,r)$ 
+$$
+E_{obs}(t,r)=\frac{\rho_0}{2}\frac{\dot{u}(t,r)+\mathcal{H}^2(\dot{u}(t,r))}{2}
+\tag{6}
+$$
+$\rho_0$ can be assumed (2700)
+
+Inversion scheme --> estimate 
