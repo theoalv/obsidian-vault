@@ -29,7 +29,7 @@ $R_i$ is site response at station i
 $G$ is Green function --> calculate with $g_0$ 
 $b$ is intrinsic adsorption
 ## Methods
--
+[[Coda Envelope Modelling]]
 
 ## Figures / Results
 -

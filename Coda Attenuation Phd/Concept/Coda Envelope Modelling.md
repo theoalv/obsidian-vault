@@ -30,3 +30,14 @@ receiver is assumed at $r^+$, then $G_h(t,\mathbf{x})=2G(t,r)$
 
 Source funtion is assumed in the form $W\delta(\mathbf{r})\delta(t)$ 
 The final model equation is
+$$
+\begin{align}
+E_{mod}(t,\mathbf{x})
+&=WR_iG_h(t,\mathbf{x})e^{-bt}\
+\tag{4}\\
+&=2WR_iG(t,r)e^{-bt}\
+\tag{5}
+\end{align}
+$$
+
+Observed energy density is formulated from bandpassed velocity seismogram 
