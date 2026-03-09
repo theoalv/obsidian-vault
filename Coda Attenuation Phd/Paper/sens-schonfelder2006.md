@@ -9,7 +9,7 @@ doi: 10.1111/j.1365-246X.2006.03139.x
 # Radiative transfer theory for estimation of the seismic moment
 
 ## Summary
--
+propose a method to obtain source spectra and seismic moment from seismic coda envelope analysis.
 
 ## Key Contributions
 -
