@@ -3,7 +3,7 @@ title: Scattering by Random Velocity Inhomogeneities
 updated: 2026-02-05T11:02:44
 created: 2026-02-04T10:31:20
 ---
-
+[[Localized Velocity Inhomogeneity]]
 **Scattering Coefficient**
 localized inhomogeneity defined only 1 scatterer --\> in medium contains many small heterogeneity and isotropic
 Velocity fluctuates randomly (ensemble random functions) with zero mean

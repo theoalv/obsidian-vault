@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Random elastic inhomogeneity.md",
+                "file": "Coda Attenuation Phd/Scratch/Coda Excitation Model Scratch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random elastic inhomogeneity"
+              "title": "Coda Excitation Model Scratch"
             }
           }
         ]
@@ -198,15 +198,23 @@
   },
   "active": "6f97fc4e8f306138",
   "lastOpenFiles": [
-    "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Localized elastic inhomogeneity.md",
-    "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Random elastic inhomogeneity.md",
-    "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Birch Law.md",
+    "Coda Attenuation Phd/Scratch/Medium Heterogeneity Scratch.md",
+    "Coda Attenuation Phd/Scratch/Coda Excitation Model Scratch.md",
+    "EquationLatex.md",
+    "Coda Attenuation Phd/Concept/Born Approximation.md",
+    "Coda Attenuation Phd/Concept/Boltzmann Equation.md",
+    "Coda Attenuation Phd/Derivation/Scalar wave in random media.md",
+    "Coda Attenuation Phd/Derivation/Mean Wave.md",
+    "Coda Attenuation Phd/Derivation/Coda Excitation Model/Single isotropic scattering model.md",
+    "Coda Attenuation Phd/Derivation/Coda Excitation Model/Energy Flux Model.md",
+    "Coda Attenuation Phd/Derivation/Coda Excitation Model/Diffusion Model.md",
     "Coda Attenuation Phd/Derivation/Born Approximation/Scalar waves/Localized Velocity Inhomogeneity.md",
     "Coda Attenuation Phd/Derivation/Born Approximation/Scalar waves/Scattering by Random Velocity Inhomogeneities.md",
+    "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Birch Law.md",
+    "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Random elastic inhomogeneity.md",
+    "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Localized elastic inhomogeneity.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation/Elastic Vector Waves.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Born Approximation/Scalar waves.md",
-    "Coda Attenuation Phd/Derivation/Scalar wave in random media.md",
-    "Coda Attenuation Phd/Derivation/First order smoothing method.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Radiative Transfer Equation.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Spatial Variation of Medium Heterogeneities.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Idea.md",
@@ -215,16 +223,8 @@
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Coda Attenuation Questions.md",
     "Coda Attenuation Phd/Coda Attenuation/Sato 2012/Equipartition.md",
     "Coda Attenuation Phd/Concept/Attenuation of High Frequency Seismic Waves.md",
-    "Coda Attenuation Phd/Concept/Born Approximation.md",
     "Coda Attenuation Phd/Concept/Total Scattering Coefficient.md",
-    "Coda Attenuation Phd/Concept/Measurement of Coda Attenuation.md",
-    "Coda Attenuation Phd/Concept/Lapse time dependence of Coda Attenuation.md",
-    "Coda Attenuation Phd/Scratch/Medium Heterogeneity Scratch.md",
     "Coda Attenuation Phd/Scratch",
-    "Coda Attenuation Phd/Concept/RTE in Integral Form.md",
-    "Coda Attenuation Phd/Concept/Boltzmann Equation.md",
-    "Coda Attenuation Phd/Concept/Multi-Scale Analysis.md",
-    "Coda Attenuation Phd/Concept/Intrinsic Absorption.md",
     "Pasted image 20260308065441.png",
     "Pasted image 20260308054616.png",
     "Pasted image 20260307145701.png",

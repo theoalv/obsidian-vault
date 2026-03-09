@@ -3,7 +3,7 @@ title: Random elastic inhomogeneity
 updated: 2026-02-07T10:24:00
 created: 2026-02-07T08:19:50
 ---
-[[b]]
+[[Birch Law]]
 Random elastic inhomogeneity
 07 February 2026
 8:19
