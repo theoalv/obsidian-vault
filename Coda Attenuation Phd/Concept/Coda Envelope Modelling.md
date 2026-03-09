@@ -72,5 +72,7 @@ Steps :
    \tag{8}
    $$
    fit linear curve to LHS eq 8
+   only fit after direct S wave
+   apply constraint that Avg values of mod and obs are equal
 
 ![[Pasted image 20260310054146.png]]
