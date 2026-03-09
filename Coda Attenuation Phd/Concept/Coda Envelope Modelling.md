@@ -84,5 +84,12 @@ Steps :
 
 Scattering and Attenuation Q
 $$
-^{Sc}Q^{-1}=\frac{}{}
+^{Sc}Q^{-1}=\frac{g_0v_0}{2\pi f}
+\tag{9}
 $$
+$$
+^{I}Q^{-1}=\frac{b}{2\pi f}
+\tag{10}
+$$
+
+**Try do this for Cianjur data**
