@@ -75,7 +75,9 @@ Steps :
    only fit after direct S wave
    apply constraint that Avg values of mod and obs are equal
    resolve trade off between $g_0$ and $(WR_i)$ in late coda
-3. Calculate $E_{mod}$ --> with obtained $b$ and $WR_i$ 
-4. Re
+3. Calculate $E_{mod}$ --> with obtained $b$ and $WR_i$ --> Estimate misfit
+4. Repeat 1-3 for all $g_0$ 
+5. $W$ is logaritmic average of all $(WR_i)$ 
+   assume log avg of $R_i$ is zero --> site amps assumed to be 1
 
 ![[Pasted image 20260310054146.png]]
