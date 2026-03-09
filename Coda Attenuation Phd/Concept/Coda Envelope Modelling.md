@@ -50,5 +50,11 @@ $\rho_0$ can be assumed (2700)
 Inversion scheme --> estimate $g_0, b, W,$ and $R_i$ 
 minimize misfit function
 $$
-\
+\epsilon=\sum_{i=1}^N \sum_{j=start_i}^{end_i}\left[log\left(\frac{E_{obs}(t_j,r_i)}{E_{mod}(t_j,r_i)}\right)\right]^2
+\tag{7}
 $$
+$N$ is number of stations
+$start_i, end_i$ --> first and last sample in coda time window
+
+
+![[Pasted image 20260310054146.png]]
