@@ -81,3 +81,8 @@ Steps :
    assume log avg of $R_i$ is zero --> site amps assumed to be 1
 
 ![[Pasted image 20260310054146.png]]
+
+Scattering and Attenuation Q
+$$
+^{Sc}Q^{-1}=\frac{}{}
+$$
