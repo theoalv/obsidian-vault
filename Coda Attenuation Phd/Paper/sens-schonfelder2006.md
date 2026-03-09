@@ -12,7 +12,7 @@ doi: 10.1111/j.1365-246X.2006.03139.x
 propose a method to obtain source spectra and seismic moment from seismic coda envelope analysis.
 
 ## Key Contributions
--
+Previously to obtain source spectra, reference events with known source spectra is needed to fix proportionality coefficients. Presented approach is independent of external information because scattering physical model provides a direct relation between coda amplitude and source excitation.
 
 ## Important Equations
 -
