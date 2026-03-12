@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coda Attenuation Phd/Concept/Coda Envelope Modelling.md",
+                "file": "Coda Attenuation Phd/Concept/Lapse time dependence of Coda Attenuation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coda Envelope Modelling"
+              "title": "Lapse time dependence of Coda Attenuation"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "feeaccd7f0d40777",
@@ -199,10 +198,11 @@
   },
   "active": "6f97fc4e8f306138",
   "lastOpenFiles": [
+    "Coda Attenuation Phd/Concept/Boltzmann Equation.md",
+    "Coda Attenuation Phd/Concept/Coda Envelope Modelling.md",
     "Pasted image 20260310054146.png",
     "Coda Attenuation Phd/Paper/sens-schonfelder2006.md",
     "Coda Attenuation Phd/Paper/paasschens1997.md",
-    "Coda Attenuation Phd/Concept/Coda Envelope Modelling.md",
     "Coda Attenuation Phd/Concept/RTE 3D Boltzmann Solution.md",
     "Coda Attenuation Phd/Paper/eulenfeld2016.md",
     "Coda Attenuation Phd/Concept/RTE in Integral Form.md",
@@ -213,7 +213,6 @@
     "Coda Attenuation Phd/Scratch/Medium Heterogeneity Scratch.md",
     "EquationLatex.md",
     "Coda Attenuation Phd/Concept/Born Approximation.md",
-    "Coda Attenuation Phd/Concept/Boltzmann Equation.md",
     "Coda Attenuation Phd/Derivation/Scalar wave in random media.md",
     "Coda Attenuation Phd/Derivation/Mean Wave.md",
     "Coda Attenuation Phd/Derivation/Coda Excitation Model/Single isotropic scattering model.md",
@@ -235,7 +234,6 @@
     "Pasted image 20260307134426.png",
     "Pasted image 20260307133922.png",
     "Pasted image 20260306215726.png",
-    "Pasted image 20260305135734.png",
     "Excalidraw",
     "References/Library.bib",
     "References/Library.json",
