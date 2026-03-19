@@ -1,6 +1,4 @@
 
-# Sensitivity kernels for coda-wave interferometry and scattering tomography: Theory and numerical evaluation in two-dimensional anisotropically scattering media
-
 
 # Sensitivity kernels for coda-wave interferometry and scattering tomography: Theory and numerical evaluation in two-dimensional anisotropically scattering media
 
