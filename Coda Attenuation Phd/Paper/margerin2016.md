@@ -14,7 +14,7 @@ doi: 10.1093/gji/ggv470
 
 ## Key Contributions
 Develop an unified theory of coda-wave sensitivity for observables, such as intensity, waveform decorrelation, or travel time changes in realistic media
-Introduce active and passive perturbation of medium
+Introduce active and passive perturbation of medium[[mayor2014]]
 
 ## Important Equations
 -
