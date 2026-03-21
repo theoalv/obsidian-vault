@@ -12,7 +12,7 @@ doi: 10.1093/gji/ggu046
 -
 
 ## Key Contributions
--
+Present theoretical framework to calculate impact of local perturbation of scattering and adsorption properties on the energy envelopes of seismogram.
 
 ## Important Equations
 -
