@@ -1,5 +1,5 @@
 ---
-title: Sensitivity kernels for coda-wave interferometry and scattering tomography: Theory and numerical evaluation in two-dimensional anisotropically scattering media
+title: Sensitivity kernels for coda-wave interferometry and scattering tomography; Theory and numerical evaluation in two-dimensional anisotropically scattering media
 authors: Ludovic Margerin, Thomas Planès, Jessie Mayor, Marie Calvet
 year: 2016
 journal: Geophysical Journal International
