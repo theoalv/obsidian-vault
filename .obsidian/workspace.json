@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "feeaccd7f0d40777",
@@ -216,13 +215,14 @@
   "lastOpenFiles": [
     "Coda Attenuation Phd/Paper/eulenfeld2016.md",
     "Coda Attenuation Phd/Paper/margerin2016.md",
+    "Coda Attenuation Phd/Concept/RTE 3D Boltzmann Solution.md",
+    "Coda Attenuation Phd/Derivation/IFT Intensity 3D.md",
     "Coda Attenuation Phd/Paper/paasschens1997.md",
     "Coda Attenuation Phd/Concept/Lapse time dependence of Coda Attenuation.md",
     "Coda Attenuation Phd/Concept/Boltzmann Equation.md",
     "Coda Attenuation Phd/Concept/Coda Envelope Modelling.md",
     "Pasted image 20260310054146.png",
     "Coda Attenuation Phd/Paper/sens-schonfelder2006.md",
-    "Coda Attenuation Phd/Concept/RTE 3D Boltzmann Solution.md",
     "Coda Attenuation Phd/Concept/RTE in Integral Form.md",
     "Coda Attenuation Phd/Concept/RTE 4D Boltzmann Solution.md",
     "Coda Attenuation Phd/Concept/RTE 2D Boltzmann Solution.md",
@@ -240,7 +240,6 @@
     "Coda Attenuation Phd/Derivation/Born Approximation/Scalar waves/Scattering by Random Velocity Inhomogeneities.md",
     "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Birch Law.md",
     "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Random elastic inhomogeneity.md",
-    "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Localized elastic inhomogeneity.md",
     "Coda Attenuation Phd/Scratch",
     "Pasted image 20260308065441.png",
     "Pasted image 20260308054616.png",
