@@ -8,7 +8,8 @@ doi: 10.1029/2008JB006107
 
 # Laterally heterogeneous scattering explains Lg blockage in the Pyrenees
 ## Summary
-Single scattering approach is using isotropic single scattering between source and receiver. While diffusion approximation is the other extreme that 
+Single scattering approach is using isotropic single scattering between source and receiver, only applicable near direct arrival. While diffusion approximation is the other extreme that assumes strong scattering, only applicable at late lapse time.
+Multiple scattering is proposed for intermediate range of moderate scattering.
 
 ## Key Contributions
 In previous development up to [[sens-schonfelder2006]], the elastic medium modeling restricted on simplification of physics wave propagation, i.e. acoustic and isotropic scattering.
