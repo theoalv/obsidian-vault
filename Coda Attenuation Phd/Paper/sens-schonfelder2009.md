@@ -8,12 +8,12 @@ doi: 10.1029/2008JB006107
 
 # Laterally heterogeneous scattering explains Lg blockage in the Pyrenees
 ## Summary
--
+Single scattering approach is using isotropic single scattering between source and receiver. While diffusion approximation is the other extreme that 
 
 ## Key Contributions
 In previous development up to [[sens-schonfelder2006]], the elastic medium modeling restricted on simplification of physics wave propagation, i.e. acoustic and isotropic scattering.
-Introduce an a
-
+Introduce an algorithm to solve RTE with less restrictive approximation.
+calculate conversion between P-S modes in 3D model.
 ## Important Equations
 -
 
