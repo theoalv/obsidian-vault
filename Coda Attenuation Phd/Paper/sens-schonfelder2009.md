@@ -17,7 +17,7 @@ Introduce an algorithm to solve RTE with less restrictive approximation.
 calculate conversion between P-S modes in 3D model.
 ## Important Equations
 $$
-\frac{\Delta N^P(\mathbf{n},\mathbf{r})}{N^P(\mathbf{n},\mathbf{r}}=-\Delta l\left(g_0^{PP}+g_0^{PS}\right)-\Delta
+\frac{\Delta N^P(\mathbf{n},\mathbf{r})}{N^P(\mathbf{n},\mathbf{r}}=-\Delta l\left(g_0^{PP}+g_0^{PS}\right)-\Delta l\frac{\omega}{\alpha_0I_Q^P}
 $$
 
 ## Methods
