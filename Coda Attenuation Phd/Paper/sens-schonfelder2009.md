@@ -16,7 +16,9 @@ In previous development up to [[sens-schonfelder2006]], the elastic medium model
 Introduce an algorithm to solve RTE with less restrictive approximation.
 calculate conversion between P-S modes in 3D model.
 ## Important Equations
--
+$$
+\frac{\Delta N^P(\mathbf{n},\mathbf{r})}{N^P(\mathbf{n},\mathbf{r}}=-\Delta l\left(g_0^{PP}+g_0^{PS}\right)-\Delta
+$$
 
 ## Methods
 -
