@@ -16,6 +16,7 @@ In previous development up to [[sens-schonfelder2006]], the elastic medium model
 Introduce an algorithm to solve RTE with less restrictive approximation.
 calculate conversion between P-S modes in 3D model.
 ## Important Equations
+This is for P wave intensity case $I^P$ 
 $$
 \begin{aligned}
 \frac{\Delta N^P(\mathbf{n},\mathbf{r})}{N^P(\mathbf{n},\mathbf{r})}
