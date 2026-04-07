@@ -18,10 +18,17 @@ calculate conversion between P-S modes in 3D model.
 ## Important Equations
 $$
 \begin{aligned}
-\frac{\Delta N^P(\mathbf{n},\mathbf{r})}{N^P(\mathbf{n},\mathbf{r}}=
-&-\Delta l\left(g_0^{PP}+g_0^{PS}\right)-\Delta l\frac{\omega}{\alpha_0 {}^IQ^P}\\
-&+\frac{\Delta l}{N(\mathbf{n},\mathbf{r})}\left[\int_{4\pi}g^{PP}(\Theta)N^P(\mathbf{n'},\mathbf{r})d\Omega_{n'}\right]\\
-&+\int_{4\pi}g^{SP}(\Theta,\p)N^P(\mathbf{n'},\mathbf{r})d\Omega_{n'}
+\frac{\Delta N^P(\mathbf{n},\mathbf{r})}{N^P(\mathbf{n},\mathbf{r})}
+&= -\Delta l\left(g_0^{PP}+g_0^{PS}\right)
+   -\Delta l\,\frac{\omega}{\alpha_0\,{}^{I}Q^{P}} \\
+&\quad + \frac{\Delta l}{N^P(\mathbf{n},\mathbf{r})}
+\Bigg[
+\int_{4\pi} g^{PP}(\Theta)\,N^P(\mathbf{n'},\mathbf{r})\,d\Omega_{n'} \\
+&\qquad +
+\int_{4\pi} g^{SP}(\Theta,\Phi)\,N^S_{\theta}(\mathbf{n'},\mathbf{r})\,d\Omega_{n'} \\
+&\qquad +
+\int_{4\pi} g^{SP}(\Theta,\Phi)\,N^S_{\phi}(\mathbf{n'},\mathbf{r})\,d\Omega_{n'}
+\Bigg]
 \end{aligned}
 $$
 
