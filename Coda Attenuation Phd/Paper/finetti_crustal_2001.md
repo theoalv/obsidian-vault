@@ -27,11 +27,20 @@ Internal Belt
 - Hinterland deposit (Quaternary sediments)
 - Apparent compression regime, with local normal faults (graben)
 
+![[Pasted image 20260710105604.png|637]]
+
 NA build-up stages
 Late Cretaceous - Eocene stage
 - Ligurian-Piedmontese sector of Tethyan oceanic crust subducted beneath Adria Plate
 - Formed Adria margin
 Late Oligocene to Lower Miocene stage
+- First apenninic stage (FAGS)
+Late Miocene to present
+- Second apenninic stage (SAGS)
 - Apennines formed by continental collision
 - Ligurian units deformed then thrusting into Tuscan and Umbria-Marche during Quaternary
-- 
+
+![[Pasted image 20260710105703.png]]
+
+Seismic interpretations
+
