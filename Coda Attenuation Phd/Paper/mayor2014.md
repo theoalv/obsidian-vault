@@ -5,7 +5,7 @@ year: 2014
 journal: Geophysical Journal International
 doi: 10.1093/gji/ggu046
 ---
-
+[[mayor_crustal_2016]]
 # Sensitivity of coda waves to spatial variations of absorption and scattering: Radiative transfer theory and 2-D examples
 
 ## Summary
