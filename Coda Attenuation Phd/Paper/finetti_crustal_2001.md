@@ -24,4 +24,4 @@ Central Belt
 Internal Belt
 - Middle-Late Tortonian continental and marine basins
 - Tuscan units (sandstones, carbonates, metamorphic)
-- 
+- Depression regime (normal faults)
