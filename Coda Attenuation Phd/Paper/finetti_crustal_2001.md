@@ -19,5 +19,9 @@ Buried Belt
 - Currently active thrust system
 Central Belt
 - Late Miocene-Pliocene
-- Tuscan (ophiolites and sedimentary cover) and Umbria-Marche (carbonates and sediments) units
+- Ligurian (ophiolites and sedimentary cover) and Umbria-Marche (carbonates and thick sediments) units
+- Active compression regime
+Internal Belt
+- Middle-Late Tortonian continental and marine basins
+- Tuscan units (sandstones, carbonates, metamorphic)
 - 
