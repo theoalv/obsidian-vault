@@ -44,3 +44,5 @@ Late Miocene to present
 
 Seismic interpretations
 - The whole NA belt system dominated by compressive lithospheric structure
+- Thick sedimentary crust in Corsica Basin (west)
+- 
