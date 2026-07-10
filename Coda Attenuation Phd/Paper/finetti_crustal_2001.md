@@ -26,3 +26,12 @@ Internal Belt
 - Tuscan units (sandstones, carbonates, metamorphic)
 - Hinterland deposit (Quaternary sediments)
 - Apparent compression regime, with local normal faults (graben)
+
+NA build-up stages
+Late Cretaceous - Eocene stage
+- Ligurian-Piedmontese sector of Tethyan oceanic crust subducted beneath Adria Plate
+- Formed Adria margin
+Late Oligocene to Lower Miocene stage
+- Apennines formed by continental collision
+- Ligurian units deformed then thrusting into Tuscan and Umbria-Marche during Quaternary
+- 
