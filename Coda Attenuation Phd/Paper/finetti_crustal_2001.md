@@ -51,3 +51,5 @@ Seismic interpretations
 - Astenoshpere uprising below Mt Cappane, leads to crustal normal faulting in North Tyrrhenian  
 - Major thrust fault in Western Tuscany, rooted in the Tethyan mantle
 - Prominent moho rise
+
+![[Pasted image 20260710114506.png]]
