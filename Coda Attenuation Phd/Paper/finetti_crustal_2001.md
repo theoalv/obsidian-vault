@@ -47,4 +47,5 @@ Seismic interpretations
 - Thick sedimentary crust in Corsica Basin (west)
 - Subducting Tethyan oceanic slab
 - Astenoshpere uprising below Mt Cappane, leads to crustal normal faulting in North Tyrrhenian  
-- Major thrust fault in Wster
+- Major thrust fault in Western Tuscany, rooted in the Tethyan mantle
+- Prominent moho rise
