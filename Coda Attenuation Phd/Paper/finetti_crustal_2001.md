@@ -43,4 +43,4 @@ Late Miocene to present
 ![[Pasted image 20260710105703.png]]
 
 Seismic interpretations
-
+- The whole NA belt system dominated by compressive lithospheric structure
