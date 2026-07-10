@@ -9,6 +9,8 @@ doi: 10.1016/S0040-1951(01)00141-X
 # Crustal section based on CROP seismic data across the north Tyrrhenian–Northern Apennines–Adriatic sea
 
 This paper propose an interpretation of Northern Apennines (NA) subsurface condition derived from seismic reflection data. 
+Main arguments:
+
 
 ![[Pasted image 20260710102600.png]]
 
