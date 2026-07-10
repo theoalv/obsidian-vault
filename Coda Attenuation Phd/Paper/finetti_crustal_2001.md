@@ -10,7 +10,7 @@ doi: 10.1016/S0040-1951(01)00141-X
 
 This paper propose an interpretation of Northern Apennines (NA) subsurface condition derived from seismic reflection data. 
 Main arguments:
-
+- The faulting system in the hinterland basin which was previously believed to be heavily dominated by extensional regime (graben), is actually more influenced by compressional effects (thrusting). The Neogene basin development have more correlation to thrusting activity.  
 
 ![[Pasted image 20260710102600.png]]
 
