@@ -15,7 +15,7 @@ This paper propose an interpretation of Northern Apennines (NA) subsurface condi
 Geological setting of NA from east to west
 Buried Belt
 - Plio-Quaternary age
-- Hinterland deposit (Quaternary sediments)
+- Po plains (Quaternary sediments)
 - Currently active thrust system
 Central Belt
 - Late Miocene-Pliocene
@@ -24,4 +24,5 @@ Central Belt
 Internal Belt
 - Middle-Late Tortonian continental and marine basins
 - Tuscan units (sandstones, carbonates, metamorphic)
-- Depression regime (normal faults)
+- Hinterland deposit (Quaternary sediments)
+- Apparent compression regime, with local normal faults (graben)
