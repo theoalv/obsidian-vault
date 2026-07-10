@@ -15,6 +15,9 @@ This paper propose an interpretation of Northern Apennines (NA) subsurface condi
 Geological setting of NA from east to west
 Buried Belt
 - Plio-Quaternary age
-- Hinterland deposit (quaternary sediments)
+- Hinterland deposit (Quaternary sediments)
 - Currently active thrust system
 Central Belt
+- Late Miocene-Pliocene
+- Tuscan (ophiolites and sedimentary cover) and Umbria-Marche (carbonates and sediments) units
+- 
