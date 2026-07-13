@@ -1,9 +1,9 @@
 1 Seismic dataset
-- Adria Array experiment
-- This study uses AdriaArray Seismic Network, which consists of dense permanent and  temporary stations across the Circum-Adriatic region with average spacing of 50 km [ref Kolinsky 2025].  The data is accessed through European Integrated Data Archive (EIDA) Federation of Digital Seismograph Networks (FDSN).
-- AdriaArray project covers the Adriatic Plate and its tectonically active sorroundings.
-- We use data from starts of 2022 until 01.04.2026 from the available stations.  
-- We use all available channel that have good quality 3 component. If more than one channel can be used then we prioritize high frequency channel (HH* or EH*), because this study aimed to obtain results to high frequency envelope. 
+- This study uses waveform data from the AdriaArray Seismic Network, a dense network of permanent and temporary seismic stations deployed across the Circum-Adriatic region with an average station spacing of approximately 50 km [ref Kolinsky 2025]. 
+- The AdriaArray experiment covers the Adriatic Plate and its tectonically active surroundings, extending from the Alps in the north to the Calabrian Arc and mainland Greece in the south.
+- Waveform data were obtained through the European Integrated Data Archive (EIDA) using the Federated Data Service Network (FDSN) web services.
+- The analyzed dataset spans from 1 January 2022 to 1 April 2026. Only stations providing good-quality three-component waveform recordings were included in this study.
+- When multiple three-component channel groups were available at a station, high-frequency channels (HH* or EH*) were preferentially selected to maximize the frequency bandwidth for the high-frequency coda envelope analysis.
 1.1 Event Catalog and Phase Picking
 - Catalog assembly
 - automatic phase picking using SeisBench
