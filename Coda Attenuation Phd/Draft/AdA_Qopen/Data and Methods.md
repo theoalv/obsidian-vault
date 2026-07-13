@@ -1,9 +1,8 @@
 1 Seismic dataset
 - Adria Array experiment
-- This study uses AdriaArray Seismic Network, which consists of permanent and  temporary stations across the Circum-Adriatic region [ref Kolinsky 2025].  The data is accessed through European Integrated Data Archive (EIDA) Federation of Digi
-- We use  
-- recording period
-- study area
+- This study uses AdriaArray Seismic Network, which consists of permanent and  temporary stations across the Circum-Adriatic region [ref Kolinsky 2025].  The data is accessed through European Integrated Data Archive (EIDA) Federation of Digital Seismograph Networks (FDSN).
+- 
+- We use data from starts of 2022 until 01.04.2026 from the available stations.  
 - Component selection
 1.1 Event Catalog and Phase Picking
 - Catalog assembly
