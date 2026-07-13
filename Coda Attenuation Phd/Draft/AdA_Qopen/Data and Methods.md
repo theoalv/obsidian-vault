@@ -5,8 +5,7 @@
 - The analyzed dataset spans from 1 January 2022 to 1 April 2026. Only stations providing good-quality three-component waveform recordings were included in this study.
 - When multiple three-component channel groups were available at a station, high-frequency channels (HH* or EH*) were preferentially selected to maximize the frequency bandwidth for the high-frequency coda envelope analysis.
 1.1 Event Catalog and Phase Picking
-- Catalog assembly
-- We combine all of the available event catalog from ISC reviewed, GFZ, INGV, and IRIS for t 
+- We combine all of the available event catalog from ISC reviewed, GFZ, INGV, and IRIS for the time window. we use crustal event (below 40 km depth) with magnitude of 2.5 to 4.5.
 - automatic phase picking using SeisBench
 - pick quality assessment and validation
 2 Full Coda Envelope Inversion
