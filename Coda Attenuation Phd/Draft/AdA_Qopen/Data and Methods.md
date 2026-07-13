@@ -3,7 +3,7 @@
 - recording period
 - study area
 - Component selection
-1.1 Catalog and Pick
+1.1 Event Catalog and Phase Picking
 - Catalog assembly
 - automatic phase picking using SeisBench
 - pick quality assessment and validation
