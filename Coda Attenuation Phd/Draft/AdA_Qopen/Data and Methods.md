@@ -1,6 +1,7 @@
 1 Seismic dataset
 - Adria Array experiment
-- This study uses AdriaArray Seismic Network, which consists of 1092 permanent and temporary stations
+- This study uses AdriaArray Seismic Network, which consists of permanent and  temporary stations across the Circum-Adriatic region [ref Kolinsky 2025].  The data is accessed through European Integrated Data Archive (EIDA) Federation of Digi
+- We use  
 - recording period
 - study area
 - Component selection
