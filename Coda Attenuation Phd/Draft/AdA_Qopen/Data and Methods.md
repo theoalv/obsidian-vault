@@ -1,5 +1,6 @@
 1 Seismic dataset
 - Adria Array experiment
+- This study uses AdriaArray Seismic Network, which consists of 1092 permanent and temporary stations
 - recording period
 - study area
 - Component selection
