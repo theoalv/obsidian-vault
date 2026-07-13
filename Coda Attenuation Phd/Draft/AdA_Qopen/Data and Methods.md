@@ -6,7 +6,7 @@
 - When multiple three-component channel groups were available at a station, high-frequency channels (HH* or EH*) were preferentially selected to maximize the frequency bandwidth for the high-frequency coda envelope analysis.
 1.1 Event Catalog and Phase Picking
 - We combine all of the available event catalog from ISC reviewed, GFZ, INGV, and IRIS for the time window. we use crustal event (below 40 km depth) with magnitude of 2.5 to 4.5. We obtain a total of 5830 events from the combined catalog.
-- automatic phase picking using SeisBench
+- To estimate the S wave arrival for an accurate bulk window analysis, we use SeisBench to do automatic phase picking. We use 3 conservative models and choose pick with higher uncertainty. If these 3 models fails, then move to nonconservative model. If all of these model fail we try to calculate pick with classic STA/LTA
 - pick quality assessment and validation
 2 Full Coda Envelope Inversion
 - Coda envelope theory
