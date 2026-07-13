@@ -6,6 +6,7 @@
 - When multiple three-component channel groups were available at a station, high-frequency channels (HH* or EH*) were preferentially selected to maximize the frequency bandwidth for the high-frequency coda envelope analysis.
 1.1 Event Catalog and Phase Picking
 - Catalog assembly
+- We mainly use ISC revie
 - automatic phase picking using SeisBench
 - pick quality assessment and validation
 2 Full Coda Envelope Inversion
