@@ -11,6 +11,7 @@ u1 Seismic dataset
 - The coda envelope analysis uses only the waveform from the S-wave arrival to the late coda, thus only S-wave picks were subjected to quality control. Pick quality was evaluated using the envelope characteristics, requiring the S-wave arrival to precede the envelope maximum $(t_{\mathrm{peak}}-t_S>0)$. Picks violating this criterion were discarded. In addition, waveform records with a signal-to-noise ratio (SNR) below 4 were excluded. These quality-control procedures rejected 7.1% of the initial S-wave picks. Earthquakes for which no valid S-wave recordings remained after quality control were subsequently removed, resulting in a final catalog of 5,827 earthquakes used in the attenuation analysis.earthquakes used in the attenuation analysis.
 2 Full Coda Envelope Inversion
 - Coda envelope theory
+- 
 - qopen implementation
 - frequency bands and other parameters
 - estimation of scattering and intrinsic attenuation
