@@ -14,7 +14,8 @@ u1 Seismic dataset
 - The inversion was performed using the open-source Qopen package (Eulenfeld and Wegler, 2016), which jointly estimates source energy, site amplification, intrinsic attenuation, and scattering attenuation by fitting the theoretical envelope to the observed envelope across all stations.
 - Prior to the inversion, only waveform records from stations located within 110 km of the earthquake epicenter were retained. The selected seismograms were detrended, tapered to reduce edge effects, and corrected for instrument response by removing the sensor sensitivity. The processed waveforms were then filtered into eight octave-spaced frequency bands centered at 1.5, 2.1, 3.0, 4.2, 6.0, 8.5, 12.0, and 17.0 Hz. An earthquake was included in the inversion only if usable waveform data were available from at least four stations within a given frequency band.
 - The scattering coefficient $g_0$ was searched over the range $10^{-6}$--$10^{-3}\,\mathrm{m^{-1}}$, while the intrinsic attenuation parameter $b$ was searched over $10^{-2}$--$1\,\mathrm{s^{-1}}$. The direct S-wave window extended from 0.5 s before to 10 s after the S-wave arrival, and the coda window extended from the end of the direct-wave window to 100 s after the S-wave arrival. Only waveform segments with an SNR greater than 4 were considered, and records with coda durations shorter than 25 s were excluded from the inversion.
-- mapping
+
 3  Validation
 - modified peak delay fitting
 - modified late lapse coda Qc fitting
+4 mapping
