@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coda Attenuation Phd/Derivation/Fourier Transformed Intensity.md",
+                "file": "Coda Attenuation Phd/Derivation/IFT Intensity 3D.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fourier Transformed Intensity"
+              "title": "IFT Intensity 3D"
             }
           }
         ],
@@ -213,9 +213,9 @@
   },
   "active": "43fa5c326679509a",
   "lastOpenFiles": [
+    "Coda Attenuation Phd/Derivation/Fourier Transformed Intensity.md",
     "Coda Attenuation Phd/Derivation/IFT Intensity 2D.md",
     "Coda Attenuation Phd/Concept/RTE 1D Boltzmann Solution.md",
-    "Coda Attenuation Phd/Derivation/Fourier Transformed Intensity.md",
     "Coda Attenuation Phd/Derivation/IFT Intensity 3D.md",
     "Coda Attenuation Phd/Concept/RTE 3D Boltzmann Solution.md",
     "Coda Attenuation Phd/Paper/paasschens1997.md",
