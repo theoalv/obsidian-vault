@@ -12,7 +12,7 @@ doi: 10.1103/PhysRevE.56.1135
 -
 
 ## Key Contributions
--
+This study approximate the 3D solution for Boltzmann equation, which is widely used in RTE. The 3D solution is not derived as an exact analytical expression, but rather as interpolation formula from 2D and 4D solutions.
 
 ## Important Equations
 [[RTE 1D Boltzmann Solution]]
