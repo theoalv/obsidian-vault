@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coda Attenuation Phd/Concept/RTE 1D Boltzmann Solution.md",
+                "file": "Coda Attenuation Phd/Derivation/Fourier Transformed Intensity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RTE 1D Boltzmann Solution"
+              "title": "Fourier Transformed Intensity"
             }
           }
         ],
@@ -213,13 +213,14 @@
   },
   "active": "43fa5c326679509a",
   "lastOpenFiles": [
+    "Coda Attenuation Phd/Derivation/IFT Intensity 2D.md",
+    "Coda Attenuation Phd/Concept/RTE 1D Boltzmann Solution.md",
     "Coda Attenuation Phd/Derivation/Fourier Transformed Intensity.md",
     "Coda Attenuation Phd/Derivation/IFT Intensity 3D.md",
     "Coda Attenuation Phd/Concept/RTE 3D Boltzmann Solution.md",
     "Coda Attenuation Phd/Paper/paasschens1997.md",
     "Coda Attenuation Phd/Derivation/IFT Intensity 4D.md",
     "Coda Attenuation Phd/Concept/RTE 4D Boltzmann Solution.md",
-    "Coda Attenuation Phd/Derivation/IFT Intensity 2D.md",
     "Coda Attenuation Phd/Concept/RTE 2D Boltzmann Solution.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/Data and Methods.md",
     "Coda Attenuation Phd/Paper/mayor_crustal_2016.md",
@@ -235,7 +236,6 @@
     "Coda Attenuation Phd/Circum-Adriatic_Paper/UntitledUntitled.md",
     "Coda Attenuation Phd/Circum-Adriatic_Paper",
     "Coda Attenuation Phd/Paper/sens-schonfelder2009.md",
-    "Coda Attenuation Phd/Concept/RTE 1D Boltzmann Solution.md",
     "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Random elastic inhomogeneity.md",
     "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Localized elastic inhomogeneity.md",
     "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Birch Law.md",
