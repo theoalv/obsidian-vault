@@ -22,4 +22,9 @@ From AdriaArray data, event 38630661 Mw 3, located in Southern Alps in boundary 
 
 ![[Pasted image 20260720121557.png]]
 
-Fitting in 6 hz central frequency band, in IV.MBAL (Central Alps) and IV.VMAN (Po Plain) both station have similar station-event distance (r). At early coda envelope, IV.MBAL station has a strong S bulk energy, followed by quick decay after S wave arrival.
+Fitting in 6 hz central frequency band, in IV.MBAL (Central Alps) and IV.VMAN (Po Plain) both station have similar station-event distance (r). 
+- At early coda envelope, IV.MBAL station has a strong S bulk energy, followed by quick decay (weak early coda energy) after S wave arrival.
+- In contrast, IV.VMAN has weaker S bulk energy and strong early coda energy (slower decay)
+- The late coda envelope in both stations have similar decay, which can be fitted with common slope.
+![[Pasted image 20260720122327.png]]
+Strong S bulk energy and strong early coda decay in the IV.MBAL (Alps) confirms that the region has low scattering (mean )
