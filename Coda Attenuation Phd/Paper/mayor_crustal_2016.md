@@ -18,4 +18,8 @@ with $\alpha = 3/2$ .
 
 Fig. 6. show coda envelope of same event recorded in 2 different stations (Po Plain and Central Alps).
 
-Fo
+From AdriaArray data, event 38630661 Mw 3, located in Southern Alps in boundary with Po Basin
+
+![[Pasted image 20260720121557.png]]
+
+Fitting in 6 hz central frequency band, in IV.MBAL (Central Alps) and IV.VMAN (Po Plain) both station have similar station-event distance (r). At early coda envelope, IV.MBAL station has a strong S bulk energy, followed by quick decay after S wave arrival.
