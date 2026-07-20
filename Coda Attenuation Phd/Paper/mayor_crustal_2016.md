@@ -27,4 +27,5 @@ Fitting in 6 hz central frequency band, in IV.MBAL (Central Alps) and IV.VMAN (P
 - In contrast, IV.VMAN has weaker S bulk energy and strong early coda energy (slower decay)
 - The late coda envelope in both stations have similar decay, which can be fitted with common slope.
 ![[Pasted image 20260720122327.png]]
-Strong S bulk energy and strong early coda decay in the IV.MBAL (Alps) confirms that the region has low scattering (mean )
+Strong S bulk energy and strong early coda decay in the IV.MBAL (Alps) confirms that the region has low scattering (mean path length $l$), compared with IV.VMAN (Po Plain).
+In a lower heterogeneity medium, most of the energy is not scattered, which resulted in higher bulk energy. Because there is minimum scattering, there is no scattered wave behind the direct S wave, which cause a strong coda decay after 
