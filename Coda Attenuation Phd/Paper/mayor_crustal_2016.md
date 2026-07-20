@@ -17,3 +17,5 @@ with $\alpha = 3/2$ .
 ![[Pasted image 20260720112851.png]]
 
 Fig. 6. show coda envelope of same event recorded in 2 different stations (Po Plain and Central Alps).
+
+Fo
