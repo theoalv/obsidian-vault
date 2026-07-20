@@ -12,3 +12,8 @@ Study by Mayor et al. 2016, provides the Qc map of Po Basin, Northern Apennines,
 $$
 E(t,\omega)\propto S(f)t^{-\alpha}e^{-\omega t/Qc(f)}
 $$
+with $\alpha = 3/2$ .
+
+![[Pasted image 20260720112851.png]]
+
+Fig. 6. show coda envelope of same event recorded in 2 different stations ()
