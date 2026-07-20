@@ -36,3 +36,7 @@ Meanwhile, in medium with stronger heterogeneity, the probability of waves to be
 strong adsorption (low Qi) is interpreted to be correlated with extensional basins filled with clastic sedimentary deposits.
 Presence of water (wet sediments) in karstic carbonates fractures South-eastern France (4)
 ![[Pasted image 20260720130646.png]]
+
+High frequency band Qc corresponds to thick sediment deposits, while thin sediment more prominent in low frequency band.
+Argue that low frequency coda wave is dominated by surface wave, which are sensitive to shallow crust. While high frequency coda is more sensitive to deeper crustal structure.
+![[Pasted image 20260720145633.png]]
