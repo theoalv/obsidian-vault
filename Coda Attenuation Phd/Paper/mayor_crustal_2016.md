@@ -33,3 +33,5 @@ Meanwhile, in medium with stronger heterogeneity, the probability of waves to be
 
 
 **Interpretations**
+strong adsorption (low Qi) is interpreted to be correlated with extensional basins filled with clastic sedimentary deposits.
+![[Pasted image 20260720130646.png]]
