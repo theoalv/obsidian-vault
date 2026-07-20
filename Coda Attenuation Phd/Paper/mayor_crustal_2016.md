@@ -8,7 +8,7 @@ doi: 10.1016/j.epsl.2016.01.025
 
 # Crustal structure of the Alps as seen by attenuation tomography
 
-Study by Mayor et al. 2016, provides the Qc map of Po Basin, Northern Apennines, from late coda envelope which represent Qi. The formulation based on formulation from Aki and Chouet 1976:
+Study by Mayor et al. 2016, provides the Qc map of Po Basin, Northern Apennines, from late coda envelope which represent Qi. The formulation based on formulation from [aki and chouet 1975, Calvet et al. 2013], :
 $$
-E(t,\omega)\
+E(t,\omega)\propto S(f)t^{-\alpha}e^{-\omega t/Qc(f)}
 $$
