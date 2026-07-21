@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coda Attenuation Phd/Paper/jolivet_tethys_2024.md",
+                "file": "Coda Attenuation Phd/Paper/faccenna_mantle_2014.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jolivet_tethys_2024"
+              "title": "faccenna_mantle_2014"
             }
           }
         ],
@@ -213,9 +213,10 @@
   },
   "active": "43fa5c326679509a",
   "lastOpenFiles": [
+    "Pasted image 20260721153830.png",
+    "Coda Attenuation Phd/Paper/jolivet_tethys_2024.md",
     "Coda Attenuation Phd/Paper/faccenna_mantle_2014.md",
     "Coda Attenuation Phd/Paper/serpelloni_surface_2022.md",
-    "Coda Attenuation Phd/Paper/jolivet_tethys_2024.md",
     "Coda Attenuation Phd/Paper/handy_coupled_2019.md",
     "Pasted image 20260721125220.png",
     "Pasted image 20260721124657.png",
@@ -251,7 +252,6 @@
     "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Localized elastic inhomogeneity.md",
     "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Birch Law.md",
     "Coda Attenuation Phd/Derivation/Coda Excitation Model/Single scattering models.md",
-    "Coda Attenuation Phd/Derivation/Coda Excitation Model/Single isotropic scattering model.md",
     "Coda Attenuation Phd/Scratch",
     "Excalidraw",
     "References/Library.bib",
