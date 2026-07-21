@@ -8,4 +8,6 @@ doi: 10.1002/2013RG000444
 
 # Mantle dynamics in the mediterranean: MEDITERRANEAN DYNAMIC
 
+![[Pasted image 20260721154828.png]]
+
 ![[Pasted image 20260721153830.png]]
