@@ -10,4 +10,11 @@ doi: 10.1002/2013RG000444
 
 ![[Pasted image 20260721154828.png]]
 
+
+Crustal Structure
+Based on large scale model, there are these consistent structures:
+- Thicker crust beneath most of orogenic belts (Alps, Pyrenees, Northern Hellenides)
+- Thin crust in
+
+
 ![[Pasted image 20260721153830.png]]
