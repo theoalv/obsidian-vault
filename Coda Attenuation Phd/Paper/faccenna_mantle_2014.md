@@ -14,7 +14,12 @@ doi: 10.1002/2013RG000444
 Crustal Structure
 Based on large scale model, there are these consistent structures:
 - Thicker crust beneath most of orogenic belts (Alps, Pyrenees, Northern Hellenides)
-- Thin crust in
+- Thin crust in Thyrrenian, Ionian basin
+
+![[Pasted image 20260722100013.png]]
+Mantle tomography
+![[Pasted image 20260722100137.png]]
+
 
 
 ![[Pasted image 20260721153830.png]]
