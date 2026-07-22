@@ -10,3 +10,7 @@ doi: 10.1029/2022JB024800
 
 ![[Pasted image 20260722152812.png]]
 ![[Pasted image 20260722152759.png]]
+
+![[Pasted image 20260722153826.png]]
+
+![[Pasted image 20260722153852.png]]
