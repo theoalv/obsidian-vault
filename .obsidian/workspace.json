@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "feeaccd7f0d40777",
@@ -214,12 +213,12 @@
   },
   "active": "43fa5c326679509a",
   "lastOpenFiles": [
+    "Coda Attenuation Phd/Paper/faccenna_mantle_2014.md",
+    "Coda Attenuation Phd/Paper/handy_coupled_2019.md",
+    "Coda Attenuation Phd/Paper/menichelli_two-sided_2025.md",
     "Pasted image 20260722112838.png",
     "Pasted image 20260722112003.png",
-    "Coda Attenuation Phd/Paper/faccenna_mantle_2014.md",
-    "Coda Attenuation Phd/Paper/menichelli_two-sided_2025.md",
     "Coda Attenuation Phd/Paper/jolivet_tethys_2024.md",
-    "Coda Attenuation Phd/Paper/handy_coupled_2019.md",
     "Coda Attenuation Phd/Paper/finetti_crustal_2001.md",
     "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Random elastic inhomogeneity.md",
     "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Localized elastic inhomogeneity.md",
@@ -246,7 +245,6 @@
     "Coda Attenuation Phd/Paper/margerin2016.md",
     "Pasted image 20260720145633.png",
     "Pasted image 20260720130646.png",
-    "Pasted image 20260720122327.png",
     "Coda Attenuation Phd/Paper/paasschens1997.md",
     "Coda Attenuation Phd/Derivation/IFT Intensity 4D.md",
     "Coda Attenuation Phd/Derivation/IFT Intensity 2D.md",
