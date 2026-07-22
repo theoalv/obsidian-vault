@@ -20,6 +20,6 @@ Based on large scale model, there are these consistent structures:
 Mantle tomography
 ![[Pasted image 20260722100137.png]]
 
-
+Tectonic evolution
 
 ![[Pasted image 20260721153830.png]]
