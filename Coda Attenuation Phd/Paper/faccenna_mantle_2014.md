@@ -17,7 +17,7 @@ Based on large scale model, there are these consistent structures:
 - Thin crust in Thyrrenian, Ionian basin
 
 ![[Pasted image 20260722100013.png]]
-Mantle tomography
+[[zhang_geophysicalpetrological_2022]]Mantle tomography
 ![[Pasted image 20260722100137.png]]
 
 Tectonic evolution
