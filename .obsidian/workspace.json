@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coda Attenuation Phd/Paper/eulenfeld2016.md",
+                "file": "Coda Attenuation Phd/Paper/rossetti_building_2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "eulenfeld2016"
+              "title": "rossetti_building_2024"
             }
           }
         ],
@@ -213,6 +213,11 @@
   },
   "active": "43fa5c326679509a",
   "lastOpenFiles": [
+    "Pasted image 20260723141532.png",
+    "Pasted image 20260723141247.png",
+    "Pasted image 20260723141232.png",
+    "Coda Attenuation Phd/Paper/eulenfeld2016.md",
+    "Coda Attenuation Phd/Paper/rossetti_building_2024.md",
     "Coda Attenuation Phd/Paper/faccenna_mantle_2014.md",
     "Coda Attenuation Phd/Paper/finetti_crustal_2001.md",
     "Coda Attenuation Phd/Paper/handy_coupled_2019.md",
@@ -236,9 +241,7 @@
     "Pasted image 20260722153852.png",
     "Pasted image 20260722153826.png",
     "Pasted image 20260722152812.png",
-    "Pasted image 20260722152759.png",
     "Coda Attenuation Phd/Draft/AdA_Qopen/Data and Methods.md",
-    "Pasted image 20260722112838.png",
     "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Random elastic inhomogeneity.md",
     "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Localized elastic inhomogeneity.md",
     "Coda Attenuation Phd/Derivation/Born Approximation/Elastic Vector Waves/Birch Law.md",
@@ -246,8 +249,6 @@
     "Coda Attenuation Phd/Concept/Attenuation of High Frequency Seismic Waves.md",
     "Coda Attenuation Phd/Concept/Medium Heterogeneity.md",
     "Coda Attenuation Phd/Concept/Measurement of Coda Attenuation.md",
-    "Coda Attenuation Phd/Concept/Lapse time dependence of Coda Attenuation.md",
-    "Coda Attenuation Phd/Concept/Intrinsic Absorption.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen",
     "Coda Attenuation Phd/Draft",
     "Coda Attenuation Phd/Circum-Adriatic_Paper",

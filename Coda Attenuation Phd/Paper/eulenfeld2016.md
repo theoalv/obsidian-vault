@@ -16,7 +16,7 @@ doi: 10.1093/gji/ggw035
 
 ## Important Equations
 -
-
+[[rossetti_building_2024]]
 ## Methods
 -
 
