@@ -9,6 +9,7 @@ doi: 10.1029/2024TC008506
 # Building the albanides by deep underplating
 
 ![[Pasted image 20260723141232.png]]
-Thin sediment in Western Hellenides orogn.
+Thin sediment in Western Hellenides orogen.
 ![[Pasted image 20260723141247.png]]
 ![[Pasted image 20260723141532.png]]
+Low/flat subduction may explain high intrinsic attenuation in western Hellenides.
