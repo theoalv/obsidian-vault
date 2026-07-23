@@ -5,7 +5,7 @@ year: 2022
 journal: Journal of Geophysical Research Solid Earth
 doi: 10.1029/2022JB024800
 ---
-
+[[kapuralic_crustal_2019]]
 # Geophysical‐Petrological model for bidirectional mantle delamination of the adria microplate beneath the northern apennines and dinarides orogenic systems
 
 ![[Pasted image 20260722152812.png]]
