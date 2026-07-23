@@ -8,3 +8,5 @@ doi: 10.3389/feart.2022.907897
 
 # Surface velocities and strain-rates in the euro-mediterranean region from massive GPS data processing
 
+![[Pasted image 20260723140743.png]]
+![[Pasted image 20260723140814.png]]
