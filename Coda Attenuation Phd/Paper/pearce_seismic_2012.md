@@ -23,3 +23,4 @@ This study aimed to constrain the transition from northern to southern WHSZ segm
 
 ![[Pasted image 20260724142841.png]]
 ![[Pasted image 20260724142858.png]]
+\[[elsharkawy_slab_2020]]

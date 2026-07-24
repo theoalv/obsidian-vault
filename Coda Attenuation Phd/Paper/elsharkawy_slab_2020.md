@@ -1,0 +1,13 @@
+---
+title: The slab puzzle of the Alpine‐Mediterranean region Insights from a new, High‐Resolution, shear wave velocity model of the upper mantle
+authors: Amr El‐Sharkawy, Thomas Meier, Sergei Lebedev, Jan H. Behrmann, Mona Hamada, Luigia Cristiano, Christian Weidle, Daniel Köhn
+year: 2020
+journal: Geochemistry, Geophysics, Geosystems
+doi: 10.1029/2020GC008993
+---
+
+# The slab puzzle of the Alpine‐Mediterranean region: Insights from a new, High‐Resolution, shear wave velocity model of the upper mantle
+
+The study aimed to identify slab segments in the Mediterranean upper mantel and distinguish attached slab segments type using rayleigh wave velocity maps.
+![[Pasted image 20260724150717.png]]
+
