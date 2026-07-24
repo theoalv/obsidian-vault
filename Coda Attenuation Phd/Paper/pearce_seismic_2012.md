@@ -11,4 +11,6 @@ doi: 10.1029/2011JB009023
 The Western Hellenic Subduction Zone (WHSZ) can be separated into northern and southern segments.
 - northern has slow subduction rate (8 mm/yr), consist of continental lith
 - southern has rapid subduction (35 mm/yr), has oceanic lith affinity.
-These segments are linked with North Anatolian fault system (NAFS) as part of the  Central Hellenic Shear Zone.
+These segments are linked  and separated with North Anatolian fault system (NAFS) as part of the  Central Hellenic Shear Zone.
+![[Pasted image 20260724112632.png]]
+This study aimed to constrain the transition from northern to southern WHSZ segments using seismic imaging.
