@@ -11,3 +11,5 @@ doi: 10.1029/2020GC008993
 The study aimed to identify slab segments in the Mediterranean upper mantel and distinguish attached slab segments type using rayleigh wave velocity maps.
 ![[Pasted image 20260724150717.png]]
 
+![[Pasted image 20260724152947.png]]
+![[Pasted image 20260724153002.png]]

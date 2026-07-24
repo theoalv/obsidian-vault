@@ -4,6 +4,7 @@ Regional
 [[serpelloni_surface_2022]] - Plate movement from GPS
 [[menichelli_two-sided_2025]] - Subduction pattern in Adria microplate 
 [[zhang_geophysicalpetrological_2022]] - Geological model for [[Mantle Delamination]] in Adria
+[[elsharkawy_slab_2020]] - Upper mantle model of Circum-Adriatic region derived from SW
 
 Appenines
 [[finetti_crustal_2001]] - Compression-Extension coupling in Apennines front-arc
