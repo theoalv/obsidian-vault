@@ -7,7 +7,7 @@ doi: 10.1029/2024TC008506
 ---
 
 # Building the albanides by deep underplating
-
+[[pearce_seismic_2012]]
 ![[Pasted image 20260723141232.png]]
 Thin sediment in Western Hellenides orogen.
 ![[Pasted image 20260723141247.png]]
