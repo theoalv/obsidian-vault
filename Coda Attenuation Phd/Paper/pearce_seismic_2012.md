@@ -14,3 +14,6 @@ The Western Hellenic Subduction Zone (WHSZ) can be separated into northern and s
 These segments are linked  and separated with North Anatolian fault system (NAFS) as part of the  Central Hellenic Shear Zone.
 ![[Pasted image 20260724112632.png]]
 This study aimed to constrain the transition from northern to southern WHSZ segments using seismic imaging.
+
+![[Pasted image 20260724122611.png]]
+![[Pasted image 20260724122645.png]]
