@@ -13,3 +13,4 @@ The study aimed to identify slab segments in the Mediterranean upper mantel and 
 
 ![[Pasted image 20260724152947.png]]
 ![[Pasted image 20260724153002.png]]
+![[Pasted image 20260724154623.png]]
