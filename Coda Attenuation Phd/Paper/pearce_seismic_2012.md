@@ -19,4 +19,4 @@ This study aimed to constrain the transition from northern to southern WHSZ segm
 ![[Pasted image 20260724122747.png]]
 
 - In SL, LVL dips at 17 deg with 8km thickness
-- in LL, 
+- in LL, LVL dips at 17 deg with 12 to 20 km thickness
