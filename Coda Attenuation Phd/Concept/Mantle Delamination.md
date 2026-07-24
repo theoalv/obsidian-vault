@@ -1,0 +1,1 @@
+A process where the lower part of subducting lithosphere detaches and sinks into softer asthenosphere below.

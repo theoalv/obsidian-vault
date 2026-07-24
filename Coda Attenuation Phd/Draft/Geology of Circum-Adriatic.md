@@ -3,6 +3,7 @@
 Regional
 [[serpelloni_surface_2022]] - Plate movement from GPS
 [[menichelli_two-sided_2025]] - Subduction pattern in Adria microplate 
+[[zhang_geophysicalpetrological_2022]] - Geological model for mantle delamination
 
 Appenines
 [[finetti_crustal_2001]] - Compression-Extension coupling in Apennines front-arc
