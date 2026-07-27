@@ -14,4 +14,7 @@ The study aimed to identify slab segments in the Mediterranean upper mantel and 
 ![[Pasted image 20260724152947.png]]
 ![[Pasted image 20260724153002.png]]
 ![[Pasted image 20260724154623.png]]
-Hellenides slab - continous
+Hellenides slab - continous slab
+Dinarides slab - narrow, shallow, NE dipping high velocity anomaly, detached lithosphere interpreted exist at 300 km depth
+Alpine slab - slab breakoff
+Apenninic slab - continous slab
