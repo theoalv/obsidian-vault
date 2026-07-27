@@ -1,5 +1,6 @@
 ![[Circum_adriatic.png]]
-![[Pasted image 20260727130235.png]]
+![[Pasted image 20260727131555.png]]![[Pasted image 20260727130235.png]]
+
 
 Regional
 [[serpelloni_surface_2022]] - Plate movement from GPS
