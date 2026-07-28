@@ -22,4 +22,9 @@ Adria Sea - Po Basin
 - High scattering at most of the basin. Confirms study of Qc in the same region [[mayor_crustal_2016]]
 
 Alps
-- Has the lowest scattering 
+- Has the lowest scattering and intrinsic attenuation value in the region.
+
+Dinarides
+- Slab retreat other side of adriatic sea subduction
+- Has flat subduction
+- Subductiovents recorded by the network during this time period (2022 - 2026) is significantly lower than the Apennines side
