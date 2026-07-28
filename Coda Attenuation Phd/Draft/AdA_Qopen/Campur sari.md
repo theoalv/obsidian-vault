@@ -39,4 +39,5 @@ Hellenides
 - This region is being passed by North Anatolian Fault (NAF)
 - High intrinsic and medium to high scattering at the subduction zone (low cf 6hz and below)
 - High intrinsic region is not directly below the volcanic arc
-- Even though NL has no active volcano, intrinsic attenuation in this area is high
+- Even though NL has no active volcano, scattering and intrinsic attenuation in this region is high
+- At high frequency band, northern Greece and southern Bulgaria region has scattering region. This area has low scattering at lower frequencies.
