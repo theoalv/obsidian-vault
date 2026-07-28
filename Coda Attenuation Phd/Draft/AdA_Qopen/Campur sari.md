@@ -40,4 +40,4 @@ Hellenides
 - High intrinsic and medium to high scattering at the subduction zone (low cf 6hz and below)
 - High intrinsic region is not directly below the volcanic arc
 - Even though NL has no active volcano, scattering and intrinsic attenuation in this region is high
-- At high frequency band, northern Greece and southern Bulgaria region has scattering region. This area has low scattering at lower frequencies.
+- At high frequency band, northern Greece and southern Bulgaria region has scattering region. This area has low scattering at lower frequencies. This region is close to Moesian Platform with thick sediment deposits (10 - 12 km). However, the high scattering region is located south of it at hilly terrain with thin sediment. There are geothermal prospects in this area, but if that is the cause, intrinsic attenuation should also be high (it is not).
