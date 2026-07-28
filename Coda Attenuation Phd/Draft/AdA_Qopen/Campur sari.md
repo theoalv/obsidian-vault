@@ -34,9 +34,9 @@ Dinarides
 
 Hellenides
 - Active subduction zone, shown by large catalog depth range (35 km) at its tectonic boundary along the southern isle.
-- N
+- The subduction zone divided into northern (NL) and southern (SL) segments with different characteristics; NL slower rate with continental crust, SL faster rate oceanic. [[pearce_seismic_2012]]
 - Has a volcanic arc in the back-arc subduction side
 - This region is being passed by North Anatolian Fault (NAF)
 - High intrinsic and medium to high scattering at the subduction zone (low cf 6hz and below)
 - High intrinsic region is not directly below the volcanic arc
-- 
+- Even though NL has no active volcano, intrinsic attenuation in this area is high
