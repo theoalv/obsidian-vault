@@ -34,4 +34,9 @@ Dinarides
 
 Hellenides
 - Active subduction zone, shown by large catalog depth range (35 km) at its tectonic boundary along the southern isle.
-- Has many active volca
+- N
+- Has a volcanic arc in the back-arc subduction side
+- This region is being passed by North Anatolian Fault (NAF)
+- High intrinsic and medium to high scattering at the subduction zone (low cf 6hz and below)
+- High intrinsic region is not directly below the volcanic arc
+- 
