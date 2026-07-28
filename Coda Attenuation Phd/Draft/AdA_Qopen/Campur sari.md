@@ -27,4 +27,6 @@ Alps
 Dinarides
 - Slab retreat other side of adriatic sea subduction
 - Has flat subduction
-- Subductiovents recorded by the network during this time period (2022 - 2026) is significantly lower than the Apennines side
+- Subduction events recorded by the network during this time period (2022 - 2026) is significantly lower than the Apennines side
+- medium to low scattering and intrinsic attenuation at most frequencies, even though may be caused of small number of events.
+- However, at high cf (>=12 hz), this region has med to high scattering, especially in the fore-arc side. This is unexpected because usually high scattering at high frequency corresponds to thick sediments deposit, while from EPcrust, this region
