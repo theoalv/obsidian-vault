@@ -31,3 +31,7 @@ Dinarides
 - Subduction events recorded by the network during this time period (2022 - 2026) is significantly lower than the Apennines side
 - medium to low scattering and intrinsic attenuation at most frequencies, even though may be caused of small number of events.
 - However, at high cf (>=12 hz), this region has med to high scattering, especially in the fore-arc side. This is unexpected because usually high scattering at high frequency corresponds to thick sediments deposit, while based on EPcrust model, this region has medium thickness (~6 km)
+
+Hellenides
+- Active subduction zone, shown by large catalog depth range (35 km) at its tectonic boundary along the southern isle.
+- Has many active volca
