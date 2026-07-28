@@ -9,6 +9,9 @@ Presented Qsc and Qi are normalized to region average
 Apennines
 - High attenuation region, has many active volcanoes.
 - Results of slab retreat in Tertiary period
+- Fore-arc side (in front of adria sea, southern side- Sicily) has med to deep mantle (35 - 45 km) and large catalog depth range (35 km), indicating subduction zone
 - High intrinsic attenuation on all frequency bands
 - High scattering in low to med frequency bands (cf 1.5 - 8.5 hz), medium to low in higher frequency (cf 12 - 17 hz)
--  
+
+Adria Sea - Po Basin
+- 
