@@ -18,4 +18,8 @@ Apennines
 Adria Sea - Po Basin
 - Thick sediment from EPcrust model (10 - 12 km)
 - medium to low scattering and intrinsic attenuation at low frequency (cf 6hz and below)
-- medium to low intrinsic at high freq, but somehow 
+- medium to low intrinsic at high freq, but somehow western alps has med to high value.
+- High scattering at most of the basin. Confirms study of Qc in the same region [[mayor_crustal_2016]]
+
+Alps
+- Has the lowest scattering 
