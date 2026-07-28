@@ -5,7 +5,7 @@ Presented Qsc and Qi are normalized to region average
 - Zone A (Apennines) and zone F (Hellenides) have higher b compared to other regions, aligned with the number of active volcanoes in these regions.
 - Zone C (Alps) has the lowest b and g0, followed by Pannonian Basin (Zone E)
 - Somehow Dinarides (zone D) and Po Basin - Adriatic (Zone B) have similar values
-- Zone B (Po Basin)
+- Zone B (Po Basin) has the highest scattering g0 at high frequency band
 
 Apennines
 - High attenuation region, has many active volcanoes.
@@ -18,4 +18,4 @@ Apennines
 Adria Sea - Po Basin
 - Thick sediment from EPcrust model (10 - 12 km)
 - medium to low scattering and intrinsic attenuation at low frequency (cf 6hz and below)
-- 
+- medium to low intrinsic at high freq, but somehow 
