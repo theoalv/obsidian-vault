@@ -3,9 +3,8 @@ Presented Qsc and Qi are normalized to region average
 ![[b_vs_frequency_zones_mean_ci.png]]
 ![[g0_vs_frequency_zones_mean_ci 1.png]]	 
 - Zone A (Apennines) and zone F (Hellenides) have higher b compared to other regions, aligned with the number of active volcanoes in these regions.
-- Zone C (Alps) has the lowest b and g0
+- Zone C (Alps) has the lowest b and g0, followed by Pannonian Basin (Zone E)
 - Somehow Dinarides (zone D) and Po Basin (Zone B) have similar values
-- 
 
 Apennines
 - High attenuation region, has many active volcanoes.
