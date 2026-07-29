@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coda Attenuation Phd/Paper/mayor_crustal_2016.md",
+                "file": "Coda Attenuation Phd/Draft/AdA_Qopen/0. Campur sari.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mayor_crustal_2016"
+              "title": "0. Campur sari"
             }
           },
           {
@@ -257,10 +257,11 @@
   },
   "active": "7a7dacadc66cb50f",
   "lastOpenFiles": [
+    "Coda Attenuation Phd/Draft/AdA_Qopen/Data and Methods.md",
+    "Coda Attenuation Phd/Paper/mayor_crustal_2016.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/0. Doodles.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/Results.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/0. Campur sari.md",
-    "Coda Attenuation Phd/Paper/mayor_crustal_2016.md",
     "Coda Attenuation Phd/Draft/Geology of Circum-Adriatic.md",
     "Coda Attenuation Phd/Paper/pearce_seismic_2012.md",
     "Coda Attenuation Phd/Paper/menichelli_two-sided_2025.md",
@@ -270,7 +271,6 @@
     "g0_vs_frequency_zones_mean_ci 1.png",
     "g0_vs_frequency_zones_mean_ci.png",
     "b_vs_frequency_zones_mean_ci.png",
-    "Coda Attenuation Phd/Draft/AdA_Qopen/Data and Methods.md",
     "Pasted image 20260727131555.png",
     "Pasted image 20260727131552.png",
     "Coda Attenuation Phd/Paper/zhang_geophysicalpetrological_2022.md",
