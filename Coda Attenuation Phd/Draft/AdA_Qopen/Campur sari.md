@@ -1,4 +1,4 @@
-Presented Qsc and Qi are normalized to region average
+Qsc and Qi are normalized to region average
 ![[Pasted image 20260727130235.png]]
 ![[b_vs_frequency_zones_mean_ci.png]]
 ![[g0_vs_frequency_zones_mean_ci 1.png]]	 
@@ -20,10 +20,12 @@ Adria Sea - Po Basin
 - medium to low scattering and intrinsic attenuation at low frequency (cf 6hz and below)
 - medium to low intrinsic at high freq, but somehow western alps has med to high value.
 - High scattering at most of the basin. Confirms study of Qc in the same region [[mayor_crustal_2016]]
+- This region has high R value at low freq, may corresponds to amplification due to sediments.
 
 Alps
 - Has the lowest scattering and intrinsic attenuation value in the region.
 - However, at high frequency, the eastern Alps has medium to high scattering.
+- Low station amp (R)
 
 Dinarides
 - Slab retreat other side of adriatic sea subduction
@@ -36,7 +38,7 @@ Hellenides
 - Active subduction zone, shown by large catalog depth range (35 km) at its tectonic boundary along the southern isle.
 - The subduction zone divided into northern (NL) and southern (SL) segments with different characteristics; NL slower rate with continental crust, SL faster rate oceanic. [[pearce_seismic_2012]]
 - Has a volcanic arc in the back-arc subduction side
-- This region is being passed by North Anatolian Fault (NAF)
+- This region is being passed by North Anatolian Fault (NAF), this fault segment correlates with high station amp (R) values at 2.1 to 8 hz cf.
 - High intrinsic and medium to high scattering at the subduction zone (low cf 6hz and below)
 - High intrinsic region is not directly below the volcanic arc
 - Even though NL has no active volcano, scattering and intrinsic attenuation in this region is high
