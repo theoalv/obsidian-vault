@@ -7,6 +7,7 @@ Regional
 [[menichelli_two-sided_2025]] - Subduction pattern in Adria microplate 
 [[zhang_geophysicalpetrological_2022]] - Geological model for [[Mantle Delamination]] in Adria
 [[elsharkawy_slab_2020]] - Upper mantle model of Circum-Adriatic region derived from SW
+[[carminati_alps_2012]] - Detailed stratigraphy and tectonics of Apennines-PoB-Alps
 
 Appenines
 [[finetti_crustal_2001]] - Compression-Extension coupling in Apennines front-arc
@@ -18,7 +19,6 @@ Dinarides
 
 Albanides
 [[rossetti_building_2024]] - Deep plates analysis from multiple methods
-
 
 Hellenides
 [[pearce_seismic_2012]] - Seismic imaging of Western Hellenic SZ

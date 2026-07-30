@@ -1,0 +1,12 @@
+---
+title: Alps vs. Apennines The paradigm of a tectonically asymmetric earth
+authors: Eugenio Carminati, Carlo Doglioni
+year: 2012
+journal: Earth-Science Reviews
+doi: 10.1016/j.earscirev.2012.02.004
+---
+
+# Alps vs. Apennines: The paradigm of a tectonically asymmetric earth
+
+![[Pasted image 20260730114551.png]]
+Po Basin contains 
