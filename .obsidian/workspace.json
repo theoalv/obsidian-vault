@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "0. Campur sari"
             }
+          },
+          {
+            "id": "48d18705502cacfe",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260727130235.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260727130235"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,14 +225,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a7dacadc66cb50f",
+  "active": "48d18705502cacfe",
   "lastOpenFiles": [
+    "Coda Attenuation Phd/Draft/AdA_Qopen/0. Campur sari.md",
     "Coda Attenuation Phd/Paper/carminati_alps_2012.md",
     "Coda Attenuation Phd/Draft/Geology of Circum-Adriatic.md",
     "Pasted image 20260730114551.png",
     "Coda Attenuation Phd/Draft/AdA_Qopen/0. Doodles.md",
     "Coda Attenuation Phd/Paper/mayor_crustal_2016.md",
-    "Coda Attenuation Phd/Draft/AdA_Qopen/0. Campur sari.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/Data and Methods.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/Results.md",
     "Coda Attenuation Phd/Paper/pearce_seismic_2012.md",
