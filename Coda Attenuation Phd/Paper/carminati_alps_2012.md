@@ -9,4 +9,7 @@ doi: 10.1016/j.earscirev.2012.02.004
 # Alps vs. Apennines: The paradigm of a tectonically asymmetric earth
 
 ![[Pasted image 20260730114551.png]]
-Po Basin contains 
+Passive margin zone rifting creates diverse domains:
+- Oceanic (Tethys Sea)
+- Basins (Lombardy Basin, Belluno Basin)
+- Thinned lithosphere (Trento High)
