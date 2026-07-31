@@ -36,21 +36,9 @@
               "icon": "lucide-file",
               "title": "0. Campur sari"
             }
-          },
-          {
-            "id": "48d18705502cacfe",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260727130235.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260727130235"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,8 +215,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "48d18705502cacfe",
+  "active": "7a7dacadc66cb50f",
   "lastOpenFiles": [
+    "Pasted image 20260727130235.png",
     "Coda Attenuation Phd/Draft/AdA_Qopen/0. Campur sari.md",
     "Coda Attenuation Phd/Paper/carminati_alps_2012.md",
     "Coda Attenuation Phd/Draft/Geology of Circum-Adriatic.md",
@@ -257,7 +246,6 @@
     "Coda Attenuation Phd/Paper/kapuralic_crustal_2019.md",
     "Coda Attenuation Phd/Paper/faccenna_mantle_2014.md",
     "Coda Attenuation Phd/Paper/eulenfeld2016.md",
-    "Pasted image 20260727130235.png",
     "Pasted image 20260724154623.png",
     "Pasted image 20260724153002.png",
     "Pasted image 20260724152947.png",
