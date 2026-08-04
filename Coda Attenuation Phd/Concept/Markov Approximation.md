@@ -12,6 +12,11 @@ $$
 \partial_z^{2}+2ik_0\partial_zU+\Delta_{\perp}U-2k_0^2\xi U=0 
 $$
 
-Because it is assumed that $ak_0 \gg 1$ , medium heterogeneity size is larger than wavelength. Envelope U changes slowly and the second derivative $$
+Because it is assumed that $ak_0 \gg 1$ , medium heterogeneity size is larger than wavelength. Envelope U changes slowly and the second derivative $\partial_z^2 = 0$
+
+Then the final parabolic equation for $U$:
+$$
+2ik_0\partial_zU+\Delta_{\perp}U-2k_0^2\xi U=0 
+$$
 
 Markov Approximation --> extrapolate forward, without "past memory"
