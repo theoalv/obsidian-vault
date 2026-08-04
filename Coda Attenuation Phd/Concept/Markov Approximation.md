@@ -20,7 +20,7 @@ $$
 $$
 This equation can be solved with Rytov perturbation method:
 $$
-U(x_{\perp},z,t)=e^{\psi(x_{\perp},z,t))}=e^{\Delta lnA_0+i\Delta \}
+U(x_{\perp},z,t)=e^{\psi(x_{\perp},z,t))}=e^{\Delta lnA_0+i\Delta \varphi}
 $$
 
 Markov Approximation --> extrapolate forward, without "past memory"
