@@ -18,5 +18,9 @@ Then the final parabolic equation for $U$:
 $$
 2ik_0\partial_zU+\Delta_{\perp}U-2k_0^2\xi U=0 
 $$
+This equation can be solved with Rytov perturbation method:
+$$
+U(x_{\perp},z,t)=e^{\psi(x_{\perp},z,t))}=e^{\Delta lnA_0+i\Delta \}
+$$
 
 Markov Approximation --> extrapolate forward, without "past memory"
