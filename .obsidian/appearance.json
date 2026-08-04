@@ -1,8 +1,9 @@
 {
   "theme": "obsidian",
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "white-note"
+    "white-note",
+    "red-cursor"
   ],
   "baseFontSizeAction": false
 }

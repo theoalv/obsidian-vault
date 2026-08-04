@@ -1,0 +1,10 @@
+/* Red text cursor */
+.cm-content {
+    caret-color: red !important;
+}
+
+/* Also affect other editable fields */
+input,
+textarea {
+    caret-color: red !important;
+}
