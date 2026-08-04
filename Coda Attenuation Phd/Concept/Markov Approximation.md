@@ -6,5 +6,7 @@ u(x_{\perp},z,t)=\frac{1}{2\pi}\int_{-\infty}^{\infty}d\omega U(x_{\perp},z,t)e^
 $$
 
 where transverse coordinates $x_{\perp} = (x,y)$ on transverse plane, orthogonal to z direction
+Envelope U contains amplitude and phase change, where exp is the wave dynamics (wiggle)
+
 
 Markov Approximation --> extrapolate forward, without "past memory"
