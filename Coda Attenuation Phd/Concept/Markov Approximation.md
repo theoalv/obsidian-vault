@@ -18,6 +18,7 @@ Then the final parabolic equation for $U$:
 $$
 2ik_0\partial_zU+\Delta_{\perp}U-2k_0^2\xi U=0 
 $$
+
 This equation can be solved with Rytov perturbation method:
 $$
 U(x_{\perp},z,t)=e^{\psi(x_{\perp},z,t))}=e^{\Delta lnA_0+i\Delta \varphi}
@@ -26,7 +27,8 @@ Using green function
 $$
 \hat{G_{0}}(m_{\perp}, z, \omega) = \frac{i}{2k_0} e^{-\frac{i\,m_{\perp}^{2}z}{2k_0}} H(z)
 $$
-
 Then the equation become 
 $$ \hat{\Psi}{(m_{\perp}, Z, \omega)} = 2k_0^2 \int_0^Z \hat{G_0}(m_{\perp}, Z-z, \omega)\, \hat{\xi}(m_{\perp}, z)\, dz $$
+
+
 Markov Approximation --> extrapolate forward, without "past memory"
