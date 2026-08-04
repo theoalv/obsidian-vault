@@ -6,7 +6,7 @@ u(x_{\perp},z,t)=\frac{1}{2\pi}\int_{-\infty}^{\infty}d\omega U(x_{\perp},z,t)e^
 $$
 After substituting to scalar wave equation, it becomes
 $$
-\d
+\partial_z^{2}+2ik_0\partial_zU+\Delta_{\perp}U-2k_0^2\e 
 $$
 
 where transverse coordinates $x_{\perp} = (x,y)$ on transverse plane, orthogonal to z direction
