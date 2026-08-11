@@ -37,8 +37,7 @@
               "title": "2.1 Geology"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b5ba3074c295b1cb",
@@ -235,10 +234,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "28b1a4064ea44c47",
+  "active": "43fa5c326679509a",
   "lastOpenFiles": [
-    "Coda Attenuation Phd/Draft/AdA_Qopen/2. Geology Setting.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/2.1 Geology.md",
+    "Coda Attenuation Phd/Draft/Geology of Circum-Adriatic.md",
+    "Coda Attenuation Phd/Draft/AdA_Qopen/2. Geology Setting.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/0. Campur sari.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/0. Doodles.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/Results.md",
@@ -250,7 +250,6 @@
     "Coda Attenuation Phd/Paper/kapuralic_crustal_2019.md",
     "Coda Attenuation Phd/Paper/handy_coupled_2019.md",
     "Coda Attenuation Phd/Paper/rossetti_building_2024.md",
-    "Coda Attenuation Phd/Draft/Geology of Circum-Adriatic.md",
     "Coda Attenuation Phd/Paper/menichelli_two-sided_2025.md",
     "Coda Attenuation Phd/Paper/serpelloni_surface_2022.md",
     "Coda Attenuation Phd/Paper/zhang_geophysicalpetrological_2022.md",
