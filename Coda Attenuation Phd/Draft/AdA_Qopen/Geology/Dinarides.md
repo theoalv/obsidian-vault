@@ -1,2 +1,5 @@
 Formation:
-- naooes detached from former adriatic continental margin that sutured with Tisza and Dacia units of the Neotethys margin during Cretaceous and Cenozeic orogeny.
+- nappes detached from former adriatic continental margin that sutured with Tisza and Dacia units of the Neotethys margin during Cretaceous and Cenozeic orogeny [schmid2020].
+- Eastern Apls orogeny can be linked to suturing process in Dinarides after closing of Vardar and Pindos oceans [Argnani2018, Toljic2018,Nirta2020].
+
+Moderate seismicity in DInarides is confined to crustal level [Stipcevic2020, Banko2024].
