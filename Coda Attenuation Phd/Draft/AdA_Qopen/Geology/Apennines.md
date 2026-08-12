@@ -8,4 +8,6 @@ Current tectonic
 - Slab attached in North Appenines and South Calabria
 - Slab at NA is ~paralel to apennines thrust front
 - Slab at SC subducts NW direction, ~perpendicular to apennines front.
-- NA and SC turned N and S apennines to have different dynamic and tectonic characteristics
+- NA and SC turned N and S apennines to have different dynamic and tectonic characteristics [cello1999, chiarabba2023]
+- 
+
