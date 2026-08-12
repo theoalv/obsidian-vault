@@ -7,5 +7,6 @@ Based on HR seismic tomo [Karousova2013,Plomerova2022], the slab beneath eastern
 The condition leads to strong seismicity in this boundary
 However there is no record of deep slab related earthquakes in Eastern and Southern Alps.
 
-
+In the Western and Central Alps, moderate seismic activity mainly concentrated within two acruate zones related to main tectonic lineaments [Eva2020, Mathey2021].
+Seismicity in western arc is confined to upper 25 km, while eastern arc also contains deeper earthquakes originating in the Ivrea body (?). 
 
