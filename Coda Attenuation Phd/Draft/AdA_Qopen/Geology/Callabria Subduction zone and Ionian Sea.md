@@ -4,3 +4,4 @@ differences [serpelloni2022] :
 - Calabria arc has narrow subduction, vary horizontal velocity vector
 - Hellenic arc is wide and long, has fast horizontal plate motions 
 
+![[Pasted image 20260812143909.png]]
