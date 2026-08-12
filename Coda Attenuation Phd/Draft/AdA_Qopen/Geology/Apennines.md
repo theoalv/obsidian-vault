@@ -12,5 +12,6 @@ Current tectonic
 - S Apennines is under extension and uplifted (cardello2015), Isostatic rebound after slab tearing and break-off beneath S Apennines in Pleistocene correspond with uplift in Appenines foreland in Puglica during Middle-Late Pleistocene (Doglioni1996)
 -  in N Apennines, continental delamination is the primary process [Chiarabba2020,LoBue2021]. 
 
-Seismicity with be
+Seismicity with below 30km depth found in adria crust, and below 50km observed only withen the N apennines slab.
+Seismic stress regime change from compression and transpression along Apennines frontal trust to extension in the back-arc region (Barchi2006, Chiarabba2023)
 
