@@ -6,8 +6,12 @@ Qopen result
 - Comparison with Qc and peak delay (?)
 Discussion
 - low frequency band attenuation
-	high intrinsic region:
-	- A
+	high intrinsic:
+	- Apennines southern subduction boundary
+	- Volcanic range in south and central apennines
+	high scattering:
+	- Apennines southern subduction boundary
+	- Volcanic range in south and central apennines
 	
 - high frequency band attenuation
 - sample of coda envelope
