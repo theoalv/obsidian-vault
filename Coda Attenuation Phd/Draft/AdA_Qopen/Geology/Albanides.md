@@ -1,0 +1,4 @@
+The Albanides form the direct structural continuation of the Dinarides, sharing the same SW-vergent, NW-SE trend, and separated from them by the Shkoder-Peja Normal Fault (SPNF), which overprints the older transverse zone to accommodate active, scissor-like orogen-parallel extension [handy2019]. 
+ the Shkoder-Peja line separates a compressional strain regime in the north (Dinarides) from a tensile (extensional) strain regime in the south (Albanides/Hellenides)
+ The Albanides accommodate the eastward subduction of Adria's continental lithosphere.
+ [Rossetti et al. (2024)] demonstrates that the Albanides grew through a distinct process of deep crustal underplating. Slices of the Adriatic continental crust were scraped off the downgoing plate and accreted beneath the shallow sedimentary cover

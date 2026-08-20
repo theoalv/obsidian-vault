@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coda Attenuation Phd/Draft/AdA_Qopen/Geology/Hellenides.md",
+                "file": "Coda Attenuation Phd/Draft/AdA_Qopen/Geology/Albanides.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hellenides"
+              "title": "Albanides"
             }
           }
         ],
@@ -227,19 +227,20 @@
   },
   "active": "3c6a313a2a428b02",
   "lastOpenFiles": [
-    "Coda Attenuation Phd/Draft/AdA_Qopen/Geology/Dinarides.md",
+    "Coda Attenuation Phd/Draft/AdA_Qopen/Geology/Alps.md",
+    "Coda Attenuation Phd/Draft/AdA_Qopen/Geology/Albanides.md",
+    "Coda Attenuation Phd/Draft/AdA_Qopen/2. Geology Setting.md",
+    "Coda Attenuation Phd/Draft/AdA_Qopen/2.1 Geology.md",
+    "Coda Attenuation Phd/Draft/AdA_Qopen/0. Doodles.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/Geology/Hellenides.md",
+    "Coda Attenuation Phd/Draft/AdA_Qopen/Geology/Dinarides.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/Geology/Apennines.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/Geology/Callabria Subduction zone and Ionian Sea.md",
-    "Coda Attenuation Phd/Draft/AdA_Qopen/Geology/Alps.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/Geology/0.Geology of Circum-Adriatic.md",
-    "Coda Attenuation Phd/Draft/AdA_Qopen/0. Doodles.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/0. Campur sari.md",
     "Coda Attenuation Phd/Paper/finetti_crustal_2001.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/Results.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/3. Data and Methods.md",
-    "Coda Attenuation Phd/Draft/AdA_Qopen/2.1 Geology.md",
-    "Coda Attenuation Phd/Draft/AdA_Qopen/2. Geology Setting.md",
     "Coda Attenuation Phd/Concept/Medium Heterogeneity.md",
     "Coda Attenuation Phd/Concept/Attenuation of High Frequency Seismic Waves.md",
     "Coda Attenuation Phd/Concept/Boltzmann Equation.md",
@@ -254,7 +255,6 @@
     "Coda Attenuation Phd/Paper/rossetti_building_2024.md",
     "Coda Attenuation Phd/Paper/menichelli_two-sided_2025.md",
     "Coda Attenuation Phd/Paper/serpelloni_surface_2022.md",
-    "Coda Attenuation Phd/Paper/zhang_geophysicalpetrological_2022.md",
     "Pasted image 20260727130235.png",
     "Pasted image 20260730114551.png",
     "g0_vs_frequency_zones_mean_ci 1.png",
