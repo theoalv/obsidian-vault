@@ -29,4 +29,8 @@ El-Sharkawy 2020
 Shear wave velocity model of the mediterranean upper mantle derived from ambient noise data (rayleigh wave).
 Distinguish 3 categories of subducted slabs : attached deep slabs, shallow slabs, detached slabs
 
+Belinic2021
+Shear wave velocity model of Dinarides
+
+
 
