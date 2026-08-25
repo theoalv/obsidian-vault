@@ -35,10 +35,10 @@ propose the possibility of lithosphere delamination under north-central and sout
 Low velocity area under southern pannonian basin and central adriatic sea -> lithospheric thinning or mantle upwelling.
 
 Handy2021
-P wave velocity model from teleseismic in the greater Alpine area with AlpArray data.
+P wave velocity model from teleseismic in the greater Alpine upper mantle area with AlpArray data.
 Western and central apls -> European slab dips steeply to the south and attached
 Eastern Alps and Carpathians -> detached slab, coincides with moho depth decrease, interpreted as mantle upwelling
-
+NA -> hangs subvertically and detached from orogenic part, except the northernmost part
 
 
 
