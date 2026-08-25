@@ -40,6 +40,9 @@ Western and central apls -> European slab dips steeply to the south and attached
 Eastern Alps and Carpathians -> detached slab, coincides with moho depth decrease, interpreted as mantle upwelling
 NA -> hangs subvertically and detached from orogenic part, except the northernmost part
 
+Menichelli2025
+Vp and Vp/Vs tomography model of Adria
+Highlight two-sided continental subduction in Apennines and Dinarides
 
 
 
