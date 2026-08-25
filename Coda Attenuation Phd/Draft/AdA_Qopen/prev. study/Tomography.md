@@ -37,7 +37,7 @@ Low velocity area under southern pannonian basin and central adriatic sea -> lit
 Handy2021
 P wave velocity model from teleseismic in the greater Alpine area with AlpArray data.
 Western and central apls -> European slab dips steeply to the south and attached
-Eastern Alps adn Carpathians -> detached slab, coincides with moho depth decrease, interpreted as mantle upwelling
+Eastern Alps and Carpathians -> detached slab, coincides with moho depth decrease, interpreted as mantle upwelling
 
 
 
