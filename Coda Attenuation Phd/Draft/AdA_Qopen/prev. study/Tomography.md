@@ -21,6 +21,10 @@ The crustal model contains high-resolution features associated with sedimentary 
 
 Kapuralic 2018
 P wave velocity tomography in the northern Dinarides and soutwestern Pannonian basin.
-Reveals crustal thickening beneath the Dinarides and thinning beneath the Pannonian basin.
+Reveals crustal thickening beneath the Dinarides (low velocity body at 30-40 km depth) and thinning beneath the Pannonian basin.
 Strong velocity increase at depth of ~20km below Dinarides indicates that the crust could be interpreted as two layers.
-high mountain chain in northern 
+high mountain chain in northern Dinarides -> shallow high velocity (<10 km)
+
+El-Sharkawy 2020
+Shear wave velocity model of the mediterranean upper mantle derived from ambient noise data.
+Distinguish 3 categories of subducted slabs : attached, shallow slab
