@@ -21,4 +21,5 @@ The crustal model contains high-resolution features associated with sedimentary 
 
 Kapuralic 2018
 P wave velocity tomography in the northern Dinarides and soutwestern Pannonian basin.
-Reveals crustal thickening beneath the DIna
+Reveals crustal thickening beneath the Dinarides and thinning beneath the Pannonian basin.
+Strong velocity increase at depth of ~20km below Dinarides indicates that the crust could be interpreted as two layers.
