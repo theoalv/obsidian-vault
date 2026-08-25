@@ -16,4 +16,4 @@ SL -> 8 km oceanic crust
 NL -> 20 km continental crust
 
 Kastle 2018
-Shear wave velocity tomography from ambient noise and eq underneath Alps collision zone
+Shear wave velocity tomography from ambient noise and eq underneath Alps collision zone (apennines - alps)
