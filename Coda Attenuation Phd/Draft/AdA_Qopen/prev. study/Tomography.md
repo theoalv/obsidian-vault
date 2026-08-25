@@ -30,7 +30,8 @@ Shear wave velocity model of the mediterranean upper mantle derived from ambient
 Distinguish 3 categories of subducted slabs : attached deep slabs, shallow slabs, detached slabs
 
 Belinic2021
-Shear wave velocity model of Dinarides
+Shear wave velocity model of Dinarides upper mantle
+
 
 
 
