@@ -6,3 +6,4 @@ Giacomuzzi 2010
 P wave teleseismic tomography beneath italy
 Gives new insight into the structure of Adria continental lithosphere that involved in collision of Africa - Europe plates
 Confirms differences of velocity in northern and southern sector of Adria
+In NA, E-dipping Apls subduction -> continental collision -> delamination of Adria continental lith
