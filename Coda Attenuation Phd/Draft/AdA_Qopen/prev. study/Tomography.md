@@ -31,6 +31,11 @@ Distinguish 3 categories of subducted slabs : attached deep slabs, shallow slabs
 
 Belinic2021
 Shear wave velocity model of Dinarides upper mantle
+propose the possibility of lithosphere delamination under north-central and south dinarides.
+Low velocity area under southern pannonian basin and central adriatic sea -> lithospheric thinning or mantle upwelling.
+
+Handy2021
+P wave velocity model from teleseismic in the greater Alpine area with AlpArray data.
 
 
 
