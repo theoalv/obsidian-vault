@@ -16,7 +16,8 @@ SL -> 8 km oceanic crust
 NL -> 20 km continental crust
 
 Koulakov2014
-P and S wave velocity tomography model of Apennines and sorrounding 
+P and S wave velocity tomography model of Apennines and sorrounding (upper mantle)
+Identified high velocity anomaly beneath Italy, interpreted as detached part of adriatic lithosphere which was deliminated during collision.
 
 Kastle 2018
 Shear wave velocity tomography from ambient noise and eq underneath Alps collision zone (apennines - alps)
