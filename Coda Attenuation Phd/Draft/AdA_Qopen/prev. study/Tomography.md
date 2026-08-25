@@ -54,6 +54,7 @@ Highlight two-sided continental subduction in Apennines and Dinarides, variation
 Apennines -> slab peel-back, resulting in steeply dipping slab
 Dinarides -> underplating, resulting flat subduction
 
-
+Bagagli2025
+P wave velocity tomography of
 
 
