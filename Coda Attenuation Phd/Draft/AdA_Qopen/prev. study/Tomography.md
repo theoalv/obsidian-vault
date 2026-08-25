@@ -39,7 +39,8 @@ propose the possibility of lithosphere delamination under north-central and sout
 Low velocity area under southern pannonian basin and central adriatic sea -> lithospheric thinning or mantle upwelling.
 
 Paffrath2021
-P wave velocity tomography from tele
+P wave velocity tomography from teleseismic beneath the Alps orogen upper mantle with AlpArray data.
+examine the geometry and structure of subducted lithosphere
 
 Handy2021
 P wave velocity model from teleseismic in the greater Alpine upper mantle area with AlpArray data.
