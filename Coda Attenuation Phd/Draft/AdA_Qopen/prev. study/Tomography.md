@@ -26,5 +26,7 @@ Strong velocity increase at depth of ~20km below Dinarides indicates that the cr
 high mountain chain in northern Dinarides -> shallow high velocity (<10 km)
 
 El-Sharkawy 2020
-Shear wave velocity model of the mediterranean upper mantle derived from ambient noise data.
-Distinguish 3 categories of subducted slabs : attached, shallow slab
+Shear wave velocity model of the mediterranean upper mantle derived from ambient noise data (rayleigh wave).
+Distinguish 3 categories of subducted slabs : attached deep slabs, shallow slabs, detached slabs
+
+
