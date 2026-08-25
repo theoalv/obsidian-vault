@@ -17,3 +17,8 @@ NL -> 20 km continental crust
 
 Kastle 2018
 Shear wave velocity tomography from ambient noise and eq underneath Alps collision zone (apennines - alps)
+The crustal model contains high-resolution features associated with sedimentary basins, midcrustal anomalies, crustal thickness. May serve as vs reference model for Alpine crust. 
+
+Kapuralic 2018
+P wave velocity tomography in the northern Dinarides and soutwestern Pannonian basin.
+Reveals crustal thickening beneath the DIna
