@@ -55,6 +55,6 @@ Apennines -> slab peel-back, resulting in steeply dipping slab
 Dinarides -> underplating, resulting flat subduction
 
 Bagagli2025
-P wave velocity tomography of
-
+P wave velocity tomography of greater alps region with 24 years of local earthquake data.
+Present velocity model in 
 
