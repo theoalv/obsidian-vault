@@ -38,6 +38,9 @@ Shear wave velocity model of Dinarides upper mantle
 propose the possibility of lithosphere delamination under north-central and south dinarides.
 Low velocity area under southern pannonian basin and central adriatic sea -> lithospheric thinning or mantle upwelling.
 
+Paffrath2021
+P wave velocity tomography from tele
+
 Handy2021
 P wave velocity model from teleseismic in the greater Alpine upper mantle area with AlpArray data.
 Western and central apls -> European slab dips steeply to the south and attached
