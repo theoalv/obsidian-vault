@@ -42,7 +42,7 @@ NA -> hangs subvertically and detached from orogenic part, except the northernmo
 
 Menichelli2025
 Vp and Vp/Vs tomography model of Adria
-Highlight two-sided continental subduction in Apennines and Dinarides
-
+Highlight two-sided continental subduction in Apennines and Dinarides, variations of rheological properties (derived from tomography model) influence the subduction.
+Apennines -> slab peel-back, resulting 
 
 
