@@ -9,7 +9,7 @@ SL -> 8 km oceanic crust
 NL -> 20 km continental crust
 
 Kastle 2018
-Shear wave velocity tomography from ambient noise and eq underneath Alps collision zone (apennines - alps)
+Shear wave velocity tomography from ambient noise and body wave underneath Alps collision zone (apennines - alps)
 The crustal model contains high-resolution features associated with sedimentary basins, midcrustal anomalies, crustal thickness. May serve as vs reference model for Alpine crust. 
 
 Kapuralic 2018
