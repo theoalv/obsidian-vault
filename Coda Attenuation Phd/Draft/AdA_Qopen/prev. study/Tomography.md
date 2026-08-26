@@ -8,10 +8,6 @@ Show the differences of northern and southern part of the hellenides
 SL -> 8 km oceanic crust
 NL -> 20 km continental crust
 
-Koulakov2014
-<mark style="background: #FFB86CA6;">P and S wave velocity tomograph</mark>y model of Apennines and sorrounding (upper mantle)
-Identified high velocity anomaly beneath Italy, interpreted as detached part of adriatic lithosphere which was deliminated during collision.
-
 Kastle 2018
 Shear wave velocity tomography from ambient noise and eq underneath Alps collision zone (apennines - alps)
 The crustal model contains high-resolution features associated with sedimentary basins, midcrustal anomalies, crustal thickness. May serve as vs reference model for Alpine crust. 
@@ -40,6 +36,10 @@ Gives new insight into the structure of Adria continental lithosphere that invol
 Confirms differences of velocity in northern and southern sector of Adria
 In NA, E-dipping Apls subduction -> continental collision -> delamination of Adria continental lith
 C-SA,  slab detachment of Adria lith
+
+Koulakov2014
+<mark style="background: #FFB86CA6;">P and S wave velocity tomograph</mark>y model of Apennines and sorrounding (upper mantle)
+Identified high velocity anomaly beneath Italy, interpreted as detached part of adriatic lithosphere which was deliminated during collisio
 
 El-Sharkawy 2020
 Shear wave velocity model of the mediterranean upper mantle derived from ambient noise data (rayleigh wave).
