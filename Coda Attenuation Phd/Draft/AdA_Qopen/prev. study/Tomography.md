@@ -3,20 +3,20 @@ body wave and surface wave velocity tomography in Adriatic plate
 Delineate differences between northern and southern parts of the plate
 
 Giacomuzzi 2010
-P wave teleseismic velocity tomography beneath italy
+<mark style="background: #FFB86CA6;">P wave teleseismic</mark> velocity tomography beneath italy
 Gives new insight into the structure of Adria continental lithosphere that involved in collision of Africa - Europe plates
 Confirms differences of velocity in northern and southern sector of Adria
 In NA, E-dipping Apls subduction -> continental collision -> delamination of Adria continental lith
 C-SA,  slab detachment of Adria lith
 
 Pearce 2012
-body wave P and S velocity tomography in western Hellenic subduction zone
+<mark style="background: #FFB86CA6;">body wave P and S velocity tomography</mark> in western Hellenic subduction zone
 Show the differences of northern and southern part of the hellenides
 SL -> 8 km oceanic crust
 NL -> 20 km continental crust
 
 Koulakov2014
-P and S wave velocity tomography model of Apennines and sorrounding (upper mantle)
+<mark style="background: #FFB86CA6;">P and S wave velocity tomograph</mark>y model of Apennines and sorrounding (upper mantle)
 Identified high velocity anomaly beneath Italy, interpreted as detached part of adriatic lithosphere which was deliminated during collision.
 
 Kastle 2018
