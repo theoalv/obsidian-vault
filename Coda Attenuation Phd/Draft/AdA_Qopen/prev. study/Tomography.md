@@ -2,13 +2,6 @@ Venisti 2005
 body wave and surface wave velocity tomography in Adriatic plate
 Delineate differences between northern and southern parts of the plate
 
-Giacomuzzi 2010
-<mark style="background: #FFB86CA6;">P wave teleseismic</mark> velocity tomography beneath italy
-Gives new insight into the structure of Adria continental lithosphere that involved in collision of Africa - Europe plates
-Confirms differences of velocity in northern and southern sector of Adria
-In NA, E-dipping Apls subduction -> continental collision -> delamination of Adria continental lith
-C-SA,  slab detachment of Adria lith
-
 Pearce 2012
 <mark style="background: #FFB86CA6;">body wave P and S velocity tomography</mark> in western Hellenic subduction zone
 Show the differences of northern and southern part of the hellenides
@@ -39,7 +32,14 @@ Bagagli2025
 P wave velocity tomography of greater alps region with 24 years of local earthquake data.
 Present velocity model in Alps, NA, and ND
 
-Upper mantle
+**Upper mantle**
+
+Giacomuzzi 2010
+<mark style="background: #FFB86CA6;">P wave teleseismic</mark> velocity tomography beneath italy (upper mantle)
+Gives new insight into the structure of Adria continental lithosphere that involved in collision of Africa - Europe plates
+Confirms differences of velocity in northern and southern sector of Adria
+In NA, E-dipping Apls subduction -> continental collision -> delamination of Adria continental lith
+C-SA,  slab detachment of Adria lith
 
 El-Sharkawy 2020
 Shear wave velocity model of the mediterranean upper mantle derived from ambient noise data (rayleigh wave).
