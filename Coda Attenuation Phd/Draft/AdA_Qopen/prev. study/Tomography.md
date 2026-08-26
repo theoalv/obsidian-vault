@@ -29,6 +29,18 @@ Reveals crustal thickening beneath the Dinarides (low velocity body at 30-40 km 
 Strong velocity increase at depth of ~20km below Dinarides indicates that the crust could be interpreted as two layers.
 high mountain chain in northern Dinarides -> shallow high velocity (<10 km)
 
+Menichelli2025
+Vp and Vp/Vs tomography model of Adria
+Highlight two-sided continental subduction in Apennines and Dinarides, variations of rheological properties (derived from tomography model) influence the subduction.
+Apennines -> slab peel-back, resulting in steeply dipping slab
+Dinarides -> underplating, resulting flat subduction
+
+Bagagli2025
+P wave velocity tomography of greater alps region with 24 years of local earthquake data.
+Present velocity model in Alps, NA, and ND
+
+Upper mantle
+
 El-Sharkawy 2020
 Shear wave velocity model of the mediterranean upper mantle derived from ambient noise data (rayleigh wave).
 Distinguish 3 categories of subducted slabs : attached deep slabs, shallow slabs, detached slabs
@@ -48,13 +60,5 @@ Western and central apls -> European slab dips steeply to the south and attached
 Eastern Alps and Carpathians -> detached slab, coincides with moho depth decrease, interpreted as mantle upwelling
 NA -> hangs subvertically and detached from orogenic part, except the northernmost part
 
-Menichelli2025
-Vp and Vp/Vs tomography model of Adria
-Highlight two-sided continental subduction in Apennines and Dinarides, variations of rheological properties (derived from tomography model) influence the subduction.
-Apennines -> slab peel-back, resulting in steeply dipping slab
-Dinarides -> underplating, resulting flat subduction
 
-Bagagli2025
-P wave velocity tomography of greater alps region with 24 years of local earthquake data.
-Present velocity model in Alps, NA, and ND
 
