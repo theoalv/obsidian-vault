@@ -12,3 +12,4 @@ constrain moho depth
 
 **dense station avg vs sparse space weighting?**
 
+Najafabadi2023
