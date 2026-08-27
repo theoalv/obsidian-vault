@@ -1,7 +1,8 @@
 Mayor2016
 coda Qc mapping in the alps in high frequency
 at low frequency, basins identified as low adsorption regions.
-at high frequency, thick sedi
+at high frequency, thick sedimentary deposits shown as high attenuation region.
+smaller scale geological features: ivrea body, extensional basin (rhone valley), felsic intrusions in western alps,
 
 Nardoni2021
 coda attenuation (intrinsic) in 1 hz envelope across Italy and the Tyrrhenian Sea.
