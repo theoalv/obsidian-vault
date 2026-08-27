@@ -5,6 +5,7 @@ at high frequency, thick sedimentary deposits shown as high attenuation region.
 smaller scale geological features: ivrea body, extensional basin (rhone valley), felsic intrusions in western alps,
 
 Ranjan2020
+intrinsic and scattering coda Q envelope in hellenides.
 
 Nardoni2021
 coda attenuation (intrinsic) in 1 hz envelope across Italy and the Tyrrhenian Sea.
@@ -16,4 +17,4 @@ constrain moho depth
 
 Najafabadi2023
 Qp tomography in eastern - eastern southern alps.
-high attenuation body in eastern-south alpines
+high attenuation body in eastern-south alpines (friuli venetian), low attenuation in northwestern edge of Dolomites subindenter
