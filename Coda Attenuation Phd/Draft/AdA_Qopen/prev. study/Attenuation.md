@@ -13,3 +13,4 @@ constrain moho depth
 **dense station avg vs sparse space weighting?**
 
 Najafabadi2023
+Qp tomography in eastern - eastern southern alps
