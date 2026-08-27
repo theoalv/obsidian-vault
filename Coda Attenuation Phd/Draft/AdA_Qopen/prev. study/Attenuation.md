@@ -6,6 +6,10 @@ smaller scale geological features: ivrea body, extensional basin (rhone valley),
 
 Ranjan2020
 intrinsic and scattering coda Q envelope in hellenides.
+identifies zones with high intrinsic and scattering : the Gulf of Corinth, the Santorini‐Amorgos zone, Crete, and the Gulf of Gökova 
+gulf of corinth, santorini-amorgos zone, gulf of gokova-> might be caused by fault or fractures
+high scattering in crete -> fractures from thrust earthquakes
+corinth rift -> crustal fluids
 
 Nardoni2021
 coda attenuation (intrinsic) in 1 hz envelope across Italy and the Tyrrhenian Sea.
