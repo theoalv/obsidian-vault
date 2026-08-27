@@ -1,3 +1,8 @@
+Mayor2016
+coda Qc mapping in the alps in high frequency
+at low frequency, basins identified as low adsorption regions.
+at high frequency, thick sedi
+
 Nardoni2021
 coda attenuation (intrinsic) in 1 hz envelope across Italy and the Tyrrhenian Sea.
 use kernel-vased coda attenuation imaging in diffusive approximation
@@ -5,3 +10,4 @@ high attenuation body detected along the Italian peninsula, caused by thick sedi
 constrain moho depth
 
 **dense station avg vs sparse space weighting?**
+
