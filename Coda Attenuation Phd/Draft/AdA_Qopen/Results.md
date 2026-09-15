@@ -5,6 +5,8 @@
 - Circum adriatic g0 and b regional values
 
 Discussion
+- confidence of result , Comparison with Qc and peak delay
+	Interpretation
 - low frequency band attenuation
 	high intrinsic:
 	- Apennines southern subduction boundary
@@ -14,7 +16,7 @@ Discussion
 	- Volcanic range in south and central apennines 
 
 - high frequency
-- Comparison with Qc and peak delay (?) Zone separated values (define zones) - image in appendix 
+-  (?) Zone separated values (define zones) - image in appendix 
 - scatter plot (PD vs Qsc, Qc vs Qi)
 
 - comparison with velocity model (?)
