@@ -6,6 +6,7 @@
 
 Discussion
 - confidence of result , Comparison with Qc and peak delay, Quarterly result (scatter plot of all Quarterly around the mean, scatter x = value range or station value, y = variability)
+- Zone separated values (define zones) - explain the separation for frequency
 - low frequency band attenuation
 	high intrinsic:
 	- Apennines southern subduction boundary
@@ -14,12 +15,14 @@ Discussion
 	- Apennines southern subduction boundary
 	- Volcanic range in south and central apennines 
 - high frequency
--
--  (?) Zone separated values (define zones) - image in appendix 
+-Comparison with other investigation and geologic interpretation
+
+
+
+
+ image in appendix 
 - scatter plot (PD vs Qsc, Qc vs Qi)
 
-- comparison with velocity model (?)
-
-
+- comparison with velocity model (?) (check the maps)
 
 image of all freq(in appendix
