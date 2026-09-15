@@ -15,14 +15,14 @@ Discussion
 	- Apennines southern subduction boundary
 	- Volcanic range in south and central apennines 
 - high frequency
--Comparison with other investigation and geologic interpretation
+- Comparison with other investigation (sato book, scattering and intrinsic from different regions)
+- geologic interpretation
+- campi fregei, compare seismogram with Etna similar depth, distance, (or use our own result)
 
 
 
 
  image in appendix 
 - scatter plot (PD vs Qsc, Qc vs Qi)
-
 - comparison with velocity model (?) (check the maps)
-
-image of all freq(in appendix
+- image of all freq(in appendix
