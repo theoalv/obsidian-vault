@@ -15,3 +15,7 @@ Discussion
 	high scattering:
 	- Apennines southern subduction boundary
 	- Volcanic range in south and central apennines 
+
+- high frequency
+
+- comparison with velocity model (?)
