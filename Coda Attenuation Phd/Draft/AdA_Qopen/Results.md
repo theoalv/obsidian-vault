@@ -1,4 +1,3 @@
-
 -Qopen result
 - Intrinsic and scattering attenuation Q (interpolated map). selected frequency
 - sample of coda envelope in different zones (alps, apennines, etc)
@@ -18,9 +17,6 @@ Discussion
 - Comparison with other investigation (sato book, scattering and intrinsic from different regions)
 - geologic interpretation
 - campi fregei, compare seismogram with Etna similar depth, distance, (or use our own result)
-
-
-
 
  image in appendix 
 - scatter plot (PD vs Qsc, Qc vs Qi)
