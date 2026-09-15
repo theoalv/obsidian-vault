@@ -1,11 +1,13 @@
 Circum adriatic g0 and b
 - regional values
-- Zone separated values (define zones)
+-Qopen result
+- Intrinsic and scattering attenuation Q (interpolated map)
+- Comparison with Qc and peak delay (?) Zone separated values (define zones) 
+- scatter plot (PD vs Qsc, Qc vs Qi)
+
+- image of all freq(in appendix)? or selected only?
 - sample of coda envelope in different zones (alps, apennines, etc)
-Qopen result
-- Intrinsic and scattering attenuation Q
-- image of all freq? or selected only?
-- Comparison with Qc and peak delay (?)
+
 
 Discussion
 - low frequency band attenuation
