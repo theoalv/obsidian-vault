@@ -2,7 +2,7 @@ Mayor2016
 coda Qc mapping in the alps in high frequency
 at low frequency, basins identified as low adsorption regions.
 at high frequency, thick sedimentary deposits shown as high attenuation region.
-smaller scale geological features: ivrea body, extensional basin (rhone valley), felsic intrusions in western alps,
+smaller scale geological features: ivrea body, extensional basin (rhone valley), felsic intrusions in western alps,/c
 
 Ranjan2020
 intrinsic and scattering coda Q envelope in hellenides.
