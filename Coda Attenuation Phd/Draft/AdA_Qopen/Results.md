@@ -1,4 +1,4 @@
--Qopen result
+Qopen result
 - Intrinsic and scattering attenuation Q (interpolated map). selected frequency
 - sample of coda envelope in different zones (alps, apennines, etc)
 - Circum adriatic g0 and b regional values
