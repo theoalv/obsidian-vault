@@ -6,7 +6,7 @@ Qopen result
 
 Discussion
 - confidence of result , Comparison with Qc and peak delay, Quarterly result (scatter plot of all Quarterly around the mean, scatter x = value range or station value, y = variability)
-- Deviance of station averaged Qsc and Qi value
+- Station averaged Qsc and Qi value deviance (%)
 - Zone separated values (define zones) - explain the separation for frequency
 - low frequency band attenuation
 	high intrinsic:
