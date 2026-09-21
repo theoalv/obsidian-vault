@@ -1,6 +1,7 @@
 Qopen result
 - Intrinsic and scattering attenuation Q (interpolated map). selected frequency
 - Station averaged Qsc and Qi value deviance (%)
+- Data density (scatter plot)
 - sample of coda envelope in different zones (alps, apennines, etc), same image different envelope
 - Circum adriatic g0 and b regional values
 - R values
@@ -24,3 +25,4 @@ Discussion
 - scatter plot (PD vs Qsc, Qc vs Qi)
 - comparison with velocity model (?) (check the maps)
 - image of all freq
+- qi and qsc scatter map, uncertainty
