@@ -23,4 +23,4 @@ Discussion
  image in appendix 
 - scatter plot (PD vs Qsc, Qc vs Qi)
 - comparison with velocity model (?) (check the maps)
-- image of all freq(in appendix
+- image of all freq
