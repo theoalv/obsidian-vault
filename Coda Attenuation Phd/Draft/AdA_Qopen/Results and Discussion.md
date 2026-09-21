@@ -1,12 +1,12 @@
 Qopen result
 - Intrinsic and scattering attenuation Q (interpolated map). selected frequency
+- Station averaged Qsc and Qi value deviance (%)
 - sample of coda envelope in different zones (alps, apennines, etc), same image different envelope
 - Circum adriatic g0 and b regional values
 - R values
 
 Discussion
 - confidence of result , Comparison with Qc and peak delay, Quarterly result (scatter plot of all Quarterly around the mean, scatter x = value range or station value, y = variability)
-- Station averaged Qsc and Qi value deviance (%)
 - Zone separated values (define zones) - explain the separation for frequency
 - low frequency band attenuation
 	high intrinsic:
