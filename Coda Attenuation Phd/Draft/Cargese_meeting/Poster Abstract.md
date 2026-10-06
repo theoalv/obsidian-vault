@@ -1,0 +1,1 @@
+Seismic attenuation provides important constraints on seismic hazard study and small-scale heterogeneity of the lithosphere. It divided to two different mechanism: intristic attenuation, which represent the energy lost through anelastic processes, and scattering attenuation, which elastically redistributes seismic energy due to small-scale structural heterogeneities. 
