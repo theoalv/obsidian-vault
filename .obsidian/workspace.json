@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coda Attenuation Phd/Draft/AdA_Qopen/5. Discussion.md",
+                "file": "Coda Attenuation Phd/Draft/AdA_Qopen/prev. study/5.1 Discussion Rev.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Discussion"
+              "title": "5.1 Discussion Rev"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "feeaccd7f0d40777",
@@ -201,6 +200,9 @@
   },
   "active": "22caaceee45dc822",
   "lastOpenFiles": [
+    "Coda Attenuation Phd/Draft/AdA_Qopen/5. Discussion.md",
+    "Coda Attenuation Phd/Draft/AdA_Qopen/prev. study/5.1 Discussion Rev.md",
+    "Coda Attenuation Phd/Draft/AdA_Qopen/Results and Discussion.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/0. Doodles.md",
     "Pasted image 20261021161332.png",
     "Pasted image 20261021161232.png",
@@ -209,10 +211,8 @@
     "Pasted image 20261021151641.png",
     "Pasted image 20261021151607.png",
     "qc_vs_qi_1.5Hz.png",
-    "Coda Attenuation Phd/Draft/AdA_Qopen/5. Discussion.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/prev. study/Attenuation.md",
     "Coda Attenuation Phd/Draft/AdA_Qopen/4. Results.md",
-    "Coda Attenuation Phd/Draft/AdA_Qopen/Results and Discussion.md",
     "Coda Attenuation Phd/Draft/Cargese_meeting/Poster Abstract.md",
     "Coda Attenuation Phd/Concept/Attenuation of High Frequency Seismic Waves.md",
     "Coda Attenuation Phd/Concept/Boltzmann Equation.md",
